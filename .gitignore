@@ -1,0 +1,24 @@
+# =========================================== #
+# Archivos a ignorar en el repositorio de Git #
+# =========================================== #
+
+# =============== #
+# Entorno Virtual #
+# =============== #
+ml-project/.venv/
+
+# ====== #
+# VSCode #
+# ====== #
+.vscode/
+
+# ========================= #
+# Archivos de Datos Grandes #
+# ========================= #
+# data/
+
+# ================================ #
+# Documentos de clases y proyectos #
+# ================================ #
+.documents/
+.comandos.docx
