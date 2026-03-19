@@ -1,0 +1,1309 @@
+Referencia,FechaAlta,Tipo,Operación,Ciudad,Superficie,Precio Venta,Fecha Venta,Vendedor,Estatus,Días para Vender
+1,1/18/16,Estacionamiento,Alquiler,Cancún,215," $1,154,980 ",1/14/17,Joaquín,Vendida,362
+2,1/20/16,Oficina,Alquiler,Tijuana,287," $2,851,058 ",1/2/17,Joaquín,Vendida,348
+6,2/7/16,Industrial,Alquiler,Cancún,103," $728,931 ",2/5/17,Jesús,Vendida,364
+8,2/10/16,Departamento,Alquiler,Monterrey,238," $1,854,496 ",2/2/17,Luisa,Vendida,358
+9,2/10/16,Departamento,Alquiler,Ciudad de México,300," $2,105,700 ",1/26/17,Pedro,Vendida,351
+10,2/13/16,Terreno,Alquiler,Tijuana,89," $887,241 ",1/2/17,Luisa,Vendida,324
+13,2/17/16,Casa,Alquiler,Tijuana,270," $1,385,910 ",2/5/17,Pedro,Vendida,354
+15,2/21/16,Estacionamiento,Alquiler,Ciudad de México,206," $1,363,926 ",1/8/17,Carmen,Vendida,322
+16,2/22/16,Oficina,Alquiler,Cancún,275," $1,765,225 ",2/20/17,Joaquín,Vendida,364
+21,3/8/16,Terreno,Alquiler,Ciudad de México,73," $597,286 ",2/20/17,Joaquín,Vendida,349
+28,3/23/16,Departamento,Alquiler,Ciudad de México,250," $2,253,500 ",2/21/17,Joaquín,Vendida,335
+29,3/24/16,Oficina,Alquiler,Ciudad de México,206," $1,297,594 ",3/3/17,Carmen,Vendida,344
+30,3/26/16,Terreno,Alquiler,Ciudad de México,223," $1,932,518 ",1/19/17,Pedro,Vendida,299
+32,3/29/16,Industrial,Alquiler,Monterrey,46," $351,256 ",3/28/17,Luisa,Vendida,364
+34,4/2/16,Oficina,Alquiler,Cancún,186," $1,382,166 ",3/1/17,Pedro,Vendida,333
+35,4/3/16,Local,Alquiler,Tijuana,143," $665,951 ",2/18/17,Pedro,Vendida,321
+37,4/5/16,Casa,Alquiler,Tijuana,170," $995,520 ",2/1/17,Jesús,Vendida,302
+38,4/5/16,Departamento,Alquiler,Ciudad de México,268," $2,338,032 ",1/2/17,Pedro,Vendida,272
+41,4/9/16,Departamento,Alquiler,Ciudad de México,175," $747,075 ",2/1/17,Pedro,Vendida,298
+43,4/10/16,Local,Alquiler,Tijuana,49," $424,536 ",3/4/17,Pedro,Vendida,328
+44,4/11/16,Terreno,Alquiler,Ciudad de México,261," $1,220,697 ",2/9/17,Carmen,Vendida,304
+45,4/11/16,Terreno,Alquiler,Tijuana,242," $1,099,648 ",2/13/17,María,Vendida,308
+47,4/12/16,Casa,Alquiler,Ciudad de México,201," $1,107,108 ",4/7/17,Joaquín,Vendida,360
+48,4/14/16,Estacionamiento,Alquiler,Cancún,258," $1,770,912 ",3/2/17,Jesús,Vendida,322
+49,4/15/16,Industrial,Alquiler,Monterrey,150," $968,250 ",2/15/17,María,Vendida,306
+50,4/15/16,Local,Alquiler,Ciudad de México,237," $1,093,281 ",1/2/17,Jesús,Vendida,262
+51,4/15/16,Departamento,Alquiler,Ciudad de México,120," $722,880 ",2/14/17,Joaquín,Vendida,305
+52,4/15/16,Departamento,Alquiler,Ciudad de México,113," $1,102,880 ",3/17/17,Jesús,Vendida,336
+56,4/19/16,Industrial,Alquiler,Cancún,143," $712,712 ",1/10/17,Jesús,Vendida,266
+58,4/19/16,Casa,Alquiler,Ciudad de México,177," $924,294 ",1/19/17,Luisa,Vendida,275
+60,4/20/16,Oficina,Alquiler,Monterrey,227," $1,437,818 ",3/27/17,Jesús,Vendida,341
+64,4/22/16,Estacionamiento,Alquiler,Tijuana,235," $1,773,780 ",3/28/17,Pedro,Vendida,340
+66,4/23/16,Terreno,Alquiler,Cancún,85," $683,230 ",2/6/17,Carmen,Vendida,289
+67,4/24/16,Casa,Alquiler,Cancún,178," $1,458,176 ",2/12/17,Carmen,Vendida,294
+68,4/24/16,Industrial,Alquiler,Monterrey,211," $1,171,894 ",3/22/17,Pedro,Vendida,332
+69,4/26/16,Casa,Alquiler,Tijuana,298," $2,612,566 ",2/16/17,Pedro,Vendida,296
+71,4/28/16,Terreno,Alquiler,Tijuana,228," $1,521,216 ",3/16/17,Carmen,Vendida,322
+73,4/30/16,Local,Alquiler,Tijuana,91," $391,391 ",2/13/17,Luisa,Vendida,289
+74,4/30/16,Terreno,Alquiler,Cancún,230," $1,386,900 ",3/21/17,Joaquín,Vendida,325
+75,5/1/16,Casa,Alquiler,Tijuana,251," $2,439,971 ",2/14/17,Joaquín,Vendida,289
+76,5/2/16,Industrial,Alquiler,Tijuana,261," $2,571,111 ",2/7/17,Carmen,Vendida,281
+79,5/6/16,Local,Alquiler,Monterrey,138," $877,680 ",3/31/17,Luisa,Vendida,329
+80,5/7/16,Industrial,Alquiler,Cancún,242," $2,110,966 ",1/22/17,Pedro,Vendida,260
+82,5/7/16,Local,Alquiler,Cancún,227," $1,394,461 ",1/28/17,María,Vendida,266
+83,5/8/16,Oficina,Alquiler,Tijuana,41," $361,661 ",1/28/17,Carmen,Vendida,265
+84,5/11/16,Industrial,Alquiler,Cancún,131," $1,263,495 ",1/1/17,Jesús,Vendida,235
+85,5/11/16,Oficina,Alquiler,Monterrey,187," $1,560,889 ",3/26/17,Joaquín,Vendida,319
+86,5/13/16,Departamento,Alquiler,Monterrey,75," $418,725 ",4/24/17,Pedro,Vendida,346
+88,5/14/16,Estacionamiento,Alquiler,Ciudad de México,154," $830,830 ",2/3/17,Luisa,Vendida,265
+92,5/18/16,Terreno,Alquiler,Monterrey,68," $378,624 ",3/30/17,Carmen,Vendida,316
+94,5/18/16,Industrial,Alquiler,Ciudad de México,76," $501,220 ",3/24/17,Jesús,Vendida,310
+95,5/20/16,Estacionamiento,Alquiler,Ciudad de México,163," $1,317,529 ",5/3/17,Luisa,Vendida,348
+96,5/21/16,Terreno,Alquiler,Tijuana,131," $822,811 ",5/21/17,Pedro,Vendida,365
+98,5/24/16,Oficina,Alquiler,Tijuana,105," $525,210 ",4/16/17,Pedro,Vendida,327
+100,5/26/16,Terreno,Alquiler,Ciudad de México,264," $2,582,184 ",4/24/17,Luisa,Vendida,333
+102,5/28/16,Estacionamiento,Alquiler,Monterrey,137," $835,152 ",2/13/17,Jesús,Vendida,261
+103,5/29/16,Oficina,Alquiler,Cancún,196," $882,784 ",2/2/17,Luisa,Vendida,249
+105,5/30/16,Departamento,Alquiler,Tijuana,202," $1,560,450 ",2/6/17,Jesús,Vendida,252
+107,5/31/16,Local,Alquiler,Tijuana,203," $946,792 ",4/17/17,María,Vendida,321
+108,5/31/16,Casa,Alquiler,Monterrey,192," $1,159,296 ",5/23/17,Carmen,Vendida,357
+112,6/2/16,Departamento,Alquiler,Tijuana,271," $2,682,900 ",6/2/17,Pedro,Vendida,365
+113,6/2/16,Industrial,Alquiler,Ciudad de México,278," $2,188,138 ",1/21/17,María,Vendida,233
+115,6/3/16,Casa,Alquiler,Ciudad de México,72," $702,576 ",3/22/17,Carmen,Vendida,292
+118,6/4/16,Industrial,Alquiler,Tijuana,74," $729,788 ",1/22/17,Pedro,Vendida,232
+120,6/5/16,Departamento,Alquiler,Cancún,189," $1,527,498 ",5/14/17,Luisa,Vendida,343
+122,6/7/16,Industrial,Alquiler,Monterrey,287," $2,452,989 ",1/26/17,Joaquín,Vendida,233
+123,6/8/16,Departamento,Alquiler,Ciudad de México,114," $1,019,160 ",5/29/17,Carmen,Vendida,355
+126,6/10/16,Departamento,Alquiler,Ciudad de México,52," $338,364 ",1/4/17,Carmen,Vendida,208
+127,6/12/16,Oficina,Alquiler,Ciudad de México,205," $1,980,300 ",1/1/17,Joaquín,Vendida,203
+129,6/13/16,Industrial,Alquiler,Monterrey,233," $1,541,528 ",2/3/17,Jesús,Vendida,235
+133,6/17/16,Casa,Alquiler,Cancún,57," $419,178 ",3/18/17,Jesús,Vendida,274
+134,6/17/16,Estacionamiento,Alquiler,Ciudad de México,263," $1,779,458 ",1/24/17,Pedro,Vendida,221
+136,6/18/16,Industrial,Alquiler,Ciudad de México,248," $1,674,744 ",5/1/17,Luisa,Vendida,317
+139,6/20/16,Estacionamiento,Alquiler,Tijuana,244," $2,439,512 ",1/2/17,Carmen,Vendida,196
+140,6/20/16,Terreno,Alquiler,Ciudad de México,104," $511,680 ",6/5/17,Luisa,Vendida,350
+141,6/22/16,Oficina,Alquiler,Tijuana,77," $322,322 ",3/12/17,Joaquín,Vendida,263
+142,6/22/16,Oficina,Alquiler,Ciudad de México,204," $924,732 ",4/28/17,María,Vendida,310
+144,6/24/16,Casa,Alquiler,Monterrey,143," $836,836 ",6/15/17,Luisa,Vendida,356
+145,6/24/16,Industrial,Alquiler,Ciudad de México,268," $2,628,812 ",3/15/17,Pedro,Vendida,264
+150,6/25/16,Estacionamiento,Alquiler,Ciudad de México,105," $872,760 ",3/26/17,Carmen,Vendida,274
+152,6/26/16,Oficina,Alquiler,Ciudad de México,88," $851,488 ",5/25/17,Carmen,Vendida,333
+153,6/28/16,Terreno,Alquiler,Ciudad de México,189," $913,248 ",5/13/17,Luisa,Vendida,319
+155,6/29/16,Oficina,Alquiler,Tijuana,257," $1,166,780 ",1/10/17,Jesús,Vendida,195
+158,6/30/16,Departamento,Alquiler,Cancún,122," $1,093,608 ",2/27/17,Luisa,Vendida,242
+161,7/1/16,Departamento,Alquiler,Ciudad de México,185," $1,306,840 ",5/17/17,Carmen,Vendida,320
+163,7/2/16,Estacionamiento,Alquiler,Tijuana,234," $1,911,312 ",4/8/17,Luisa,Vendida,280
+164,7/2/16,Departamento,Alquiler,Monterrey,62," $358,670 ",6/4/17,Luisa,Vendida,337
+169,7/3/16,Terreno,Alquiler,Cancún,110," $1,004,740 ",7/3/17,Luisa,Vendida,365
+171,7/4/16,Industrial,Alquiler,Ciudad de México,240," $2,238,000 ",5/6/17,Pedro,Vendida,306
+173,7/5/16,Departamento,Alquiler,Ciudad de México,224," $2,087,904 ",1/29/17,Jesús,Vendida,208
+178,7/6/16,Industrial,Alquiler,Tijuana,227," $1,175,860 ",7/5/17,Joaquín,Vendida,364
+180,7/6/16,Casa,Alquiler,Tijuana,191," $1,841,622 ",1/21/17,Jesús,Vendida,199
+181,7/8/16,Oficina,Alquiler,Tijuana,119," $720,902 ",6/23/17,Carmen,Vendida,350
+183,7/9/16,Departamento,Alquiler,Tijuana,123," $682,773 ",1/30/17,Luisa,Vendida,205
+184,7/9/16,Terreno,Alquiler,Ciudad de México,42," $279,342 ",1/24/17,María,Vendida,199
+186,7/9/16,Terreno,Alquiler,Monterrey,270," $1,429,380 ",3/25/17,Carmen,Vendida,259
+187,7/10/16,Departamento,Alquiler,Tijuana,159," $1,536,576 ",6/24/17,Pedro,Vendida,349
+190,7/12/16,Casa,Alquiler,Ciudad de México,231," $2,273,040 ",2/4/17,Joaquín,Vendida,207
+191,7/12/16,Industrial,Alquiler,Ciudad de México,206," $1,414,602 ",6/14/17,Carmen,Vendida,337
+193,7/12/16,Industrial,Alquiler,Tijuana,112," $712,768 ",6/14/17,Carmen,Vendida,337
+194,7/12/16,Local,Alquiler,Ciudad de México,182," $999,726 ",2/20/17,Carmen,Vendida,223
+196,7/14/16,Industrial,Alquiler,Ciudad de México,280," $1,730,680 ",5/7/17,Carmen,Vendida,297
+198,7/14/16,Local,Alquiler,Monterrey,117," $1,031,121 ",4/30/17,Luisa,Vendida,290
+199,7/15/16,Industrial,Alquiler,Monterrey,279," $2,161,134 ",3/9/17,María,Vendida,237
+200,7/16/16,Estacionamiento,Alquiler,Tijuana,111," $761,793 ",7/11/17,María,Vendida,360
+201,7/16/16,Estacionamiento,Alquiler,Cancún,87," $565,587 ",1/25/17,Joaquín,Vendida,193
+202,7/16/16,Casa,Alquiler,Monterrey,62," $251,596 ",6/20/17,Jesús,Vendida,339
+208,7/21/16,Casa,Alquiler,Ciudad de México,275," $1,711,325 ",4/27/17,Luisa,Vendida,280
+211,7/23/16,Departamento,Alquiler,Monterrey,198," $1,916,442 ",4/14/17,Joaquín,Vendida,265
+212,7/24/16,Departamento,Alquiler,Monterrey,246," $1,875,012 ",3/8/17,Luisa,Vendida,227
+213,7/25/16,Estacionamiento,Alquiler,Ciudad de México,53," $280,741 ",7/1/17,Jesús,Vendida,341
+214,7/25/16,Departamento,Alquiler,Monterrey,161," $960,526 ",6/21/17,Joaquín,Vendida,331
+216,7/25/16,Casa,Alquiler,Ciudad de México,112," $513,968 ",4/30/17,Jesús,Vendida,279
+217,7/26/16,Local,Alquiler,Monterrey,266," $1,881,950 ",1/15/17,María,Vendida,173
+220,7/26/16,Local,Alquiler,Cancún,167," $700,398 ",3/7/17,Luisa,Vendida,224
+221,7/27/16,Terreno,Alquiler,Ciudad de México,79," $659,808 ",1/23/17,Pedro,Vendida,180
+222,7/28/16,Local,Alquiler,Cancún,235," $1,897,155 ",7/1/17,Carmen,Vendida,338
+223,7/28/16,Local,Alquiler,Ciudad de México,58," $251,430 ",5/30/17,Carmen,Vendida,306
+224,7/28/16,Estacionamiento,Alquiler,Tijuana,280," $1,877,400 ",4/21/17,Joaquín,Vendida,267
+230,8/1/16,Casa,Alquiler,Monterrey,257," $1,077,601 ",2/7/17,Luisa,Vendida,190
+231,8/1/16,Estacionamiento,Alquiler,Monterrey,161," $1,050,203 ",2/4/17,Joaquín,Vendida,187
+232,8/1/16,Oficina,Alquiler,Ciudad de México,77," $613,921 ",3/23/17,María,Vendida,234
+233,8/2/16,Departamento,Alquiler,Tijuana,184," $1,286,344 ",7/2/17,Joaquín,Vendida,334
+234,8/2/16,Local,Alquiler,Cancún,56," $469,168 ",3/8/17,Pedro,Vendida,218
+237,8/3/16,Terreno,Alquiler,Monterrey,46," $435,712 ",3/31/17,Luisa,Vendida,240
+238,8/3/16,Estacionamiento,Alquiler,Monterrey,145," $999,630 ",5/1/17,Pedro,Vendida,271
+240,8/4/16,Industrial,Alquiler,Cancún,171," $1,148,436 ",6/29/17,Pedro,Vendida,329
+245,8/8/16,Local,Alquiler,Ciudad de México,76," $738,568 ",3/22/17,Joaquín,Vendida,226
+246,8/8/16,Oficina,Alquiler,Tijuana,289," $1,275,646 ",1/29/17,Pedro,Vendida,174
+247,8/8/16,Casa,Alquiler,Monterrey,147," $919,632 ",6/23/17,Luisa,Vendida,319
+249,8/9/16,Casa,Alquiler,Tijuana,174," $1,408,182 ",5/23/17,Jesús,Vendida,287
+250,8/10/16,Local,Alquiler,Ciudad de México,149," $704,323 ",8/3/17,Luisa,Vendida,358
+251,8/10/16,Departamento,Alquiler,Ciudad de México,212," $1,817,264 ",6/25/17,María,Vendida,319
+252,8/10/16,Estacionamiento,Alquiler,Ciudad de México,45," $360,765 ",3/5/17,María,Vendida,207
+257,8/11/16,Casa,Alquiler,Monterrey,92," $879,244 ",5/6/17,Joaquín,Vendida,268
+258,8/12/16,Casa,Alquiler,Tijuana,241," $1,085,705 ",1/28/17,Pedro,Vendida,169
+260,8/12/16,Departamento,Alquiler,Tijuana,231," $1,237,929 ",4/13/17,Luisa,Vendida,244
+262,8/13/16,Oficina,Alquiler,Ciudad de México,78," $391,560 ",1/20/17,Pedro,Vendida,160
+263,8/13/16,Terreno,Alquiler,Tijuana,93," $705,963 ",3/30/17,Pedro,Vendida,229
+264,8/14/16,Terreno,Alquiler,Tijuana,58," $406,290 ",7/4/17,Carmen,Vendida,324
+269,8/15/16,Industrial,Alquiler,Monterrey,222," $2,171,826 ",1/12/17,Carmen,Vendida,150
+270,8/16/16,Departamento,Alquiler,Cancún,263," $2,061,131 ",7/28/17,Joaquín,Vendida,346
+271,8/16/16,Estacionamiento,Alquiler,Ciudad de México,86," $494,758 ",3/4/17,María,Vendida,200
+272,8/16/16,Casa,Alquiler,Cancún,212," $1,360,828 ",4/24/17,Jesús,Vendida,251
+273,8/17/16,Estacionamiento,Alquiler,Monterrey,170," $1,567,060 ",2/19/17,María,Vendida,186
+274,8/17/16,Estacionamiento,Alquiler,Tijuana,272," $1,972,816 ",8/14/17,Carmen,Vendida,362
+276,8/17/16,Estacionamiento,Alquiler,Monterrey,167," $1,191,044 ",1/11/17,Luisa,Vendida,147
+277,8/18/16,Departamento,Alquiler,Cancún,283," $2,576,432 ",5/13/17,María,Vendida,268
+278,8/18/16,Local,Alquiler,Monterrey,197," $981,651 ",1/17/17,Jesús,Vendida,152
+279,8/18/16,Departamento,Alquiler,Cancún,181," $1,161,477 ",5/7/17,María,Vendida,262
+280,8/18/16,Estacionamiento,Alquiler,Tijuana,95," $938,030 ",6/3/17,María,Vendida,289
+282,8/19/16,Departamento,Alquiler,Monterrey,277," $2,646,181 ",7/4/17,Carmen,Vendida,319
+283,8/19/16,Industrial,Alquiler,Cancún,182," $1,243,060 ",7/16/17,María,Vendida,331
+286,8/20/16,Industrial,Alquiler,Ciudad de México,255," $2,338,095 ",8/10/17,Carmen,Vendida,355
+287,8/20/16,Industrial,Alquiler,Cancún,164," $1,162,104 ",5/10/17,Pedro,Vendida,263
+289,8/20/16,Estacionamiento,Alquiler,Ciudad de México,168," $1,192,800 ",7/14/17,Joaquín,Vendida,328
+292,8/21/16,Departamento,Alquiler,Ciudad de México,46," $386,354 ",5/4/17,Pedro,Vendida,256
+295,8/22/16,Oficina,Alquiler,Monterrey,207," $1,953,873 ",6/10/17,Luisa,Vendida,292
+300,8/23/16,Casa,Alquiler,Tijuana,72," $500,400 ",1/22/17,María,Vendida,152
+302,8/24/16,Estacionamiento,Alquiler,Monterrey,254," $1,963,166 ",7/27/17,Joaquín,Vendida,337
+303,8/24/16,Local,Alquiler,Tijuana,47," $463,843 ",2/19/17,Joaquín,Vendida,179
+304,8/24/16,Local,Alquiler,Monterrey,252," $2,057,832 ",3/14/17,Luisa,Vendida,202
+305,8/25/16,Local,Alquiler,Monterrey,163," $1,520,627 ",4/20/17,Pedro,Vendida,238
+311,8/28/16,Terreno,Alquiler,Tijuana,235," $1,277,930 ",4/7/17,Luisa,Vendida,222
+312,8/28/16,Local,Alquiler,Cancún,186," $1,225,926 ",5/16/17,Luisa,Vendida,261
+315,8/29/16,Oficina,Alquiler,Tijuana,62," $329,716 ",5/10/17,Pedro,Vendida,254
+316,8/30/16,Industrial,Alquiler,Cancún,54," $227,178 ",1/24/17,Joaquín,Vendida,147
+319,8/30/16,Departamento,Alquiler,Cancún,249," $1,029,864 ",5/6/17,Carmen,Vendida,249
+320,8/30/16,Industrial,Alquiler,Cancún,284," $1,166,104 ",4/8/17,Jesús,Vendida,221
+322,8/30/16,Departamento,Alquiler,Ciudad de México,121," $1,049,433 ",6/7/17,Jesús,Vendida,281
+325,8/31/16,Terreno,Alquiler,Cancún,57," $330,771 ",1/5/17,María,Vendida,127
+326,9/1/16,Departamento,Alquiler,Ciudad de México,240," $1,214,880 ",4/9/17,Luisa,Vendida,220
+328,9/2/16,Estacionamiento,Alquiler,Cancún,81," $723,492 ",7/10/17,Joaquín,Vendida,311
+329,9/2/16,Casa,Alquiler,Monterrey,118," $827,062 ",3/22/17,Joaquín,Vendida,201
+331,9/3/16,Departamento,Alquiler,Ciudad de México,88," $392,832 ",1/28/17,María,Vendida,147
+333,9/4/16,Terreno,Alquiler,Cancún,256," $1,379,328 ",3/27/17,Luisa,Vendida,204
+334,9/4/16,Local,Alquiler,Tijuana,163," $1,570,016 ",8/4/17,Carmen,Vendida,334
+335,9/5/16,Estacionamiento,Alquiler,Monterrey,187," $789,140 ",5/16/17,Carmen,Vendida,253
+336,9/5/16,Terreno,Alquiler,Monterrey,73," $542,974 ",6/14/17,Luisa,Vendida,282
+337,9/6/16,Local,Alquiler,Monterrey,299," $1,251,315 ",1/20/17,Luisa,Vendida,136
+338,9/7/16,Departamento,Alquiler,Monterrey,295," $2,553,225 ",1/14/17,Carmen,Vendida,129
+340,9/8/16,Departamento,Alquiler,Tijuana,278," $2,540,364 ",4/12/17,Carmen,Vendida,216
+341,9/8/16,Oficina,Alquiler,Cancún,271," $1,165,842 ",2/10/17,Luisa,Vendida,155
+342,9/8/16,Departamento,Alquiler,Monterrey,258," $1,501,560 ",1/5/17,Joaquín,Vendida,119
+345,9/9/16,Casa,Alquiler,Cancún,210," $1,181,670 ",7/13/17,Jesús,Vendida,307
+347,9/10/16,Estacionamiento,Alquiler,Ciudad de México,244," $2,280,668 ",7/16/17,María,Vendida,309
+349,9/10/16,Casa,Alquiler,Ciudad de México,235," $2,135,210 ",5/14/17,Pedro,Vendida,246
+350,9/10/16,Oficina,Alquiler,Ciudad de México,43," $329,681 ",1/19/17,Jesús,Vendida,131
+351,9/10/16,Oficina,Alquiler,Tijuana,206," $1,793,848 ",9/3/17,Luisa,Vendida,358
+352,9/10/16,Local,Alquiler,Cancún,47," $457,498 ",2/23/17,Jesús,Vendida,166
+353,9/11/16,Terreno,Alquiler,Monterrey,161," $736,092 ",2/26/17,María,Vendida,168
+357,9/12/16,Industrial,Alquiler,Monterrey,86," $611,546 ",2/10/17,Carmen,Vendida,151
+358,9/12/16,Casa,Alquiler,Monterrey,54," $518,508 ",2/16/17,María,Vendida,157
+359,9/12/16,Oficina,Alquiler,Tijuana,241," $2,085,373 ",7/7/17,Joaquín,Vendida,298
+360,9/13/16,Oficina,Alquiler,Tijuana,180," $901,980 ",2/7/17,Carmen,Vendida,147
+363,9/16/16,Casa,Alquiler,Ciudad de México,197," $1,905,187 ",9/15/17,Pedro,Vendida,364
+364,9/16/16,Estacionamiento,Alquiler,Cancún,284," $1,830,664 ",1/2/17,Pedro,Vendida,108
+366,9/17/16,Oficina,Alquiler,Monterrey,164," $1,225,244 ",8/7/17,Jesús,Vendida,324
+368,9/18/16,Oficina,Alquiler,Tijuana,89," $588,023 ",6/26/17,Joaquín,Vendida,281
+370,9/19/16,Terreno,Alquiler,Ciudad de México,85," $780,980 ",7/20/17,Joaquín,Vendida,304
+371,9/19/16,Terreno,Alquiler,Ciudad de México,294," $1,201,578 ",1/31/17,Luisa,Vendida,134
+373,9/21/16,Estacionamiento,Alquiler,Tijuana,254," $2,328,418 ",1/6/17,Joaquín,Vendida,107
+378,9/22/16,Oficina,Alquiler,Cancún,136," $761,056 ",4/11/17,Jesús,Vendida,201
+379,9/22/16,Industrial,Alquiler,Monterrey,228," $2,145,480 ",6/21/17,María,Vendida,272
+381,9/23/16,Estacionamiento,Alquiler,Monterrey,294," $1,335,936 ",7/14/17,Carmen,Vendida,294
+385,9/25/16,Departamento,Alquiler,Cancún,251," $1,206,557 ",5/20/17,María,Vendida,237
+387,9/26/16,Industrial,Alquiler,Cancún,50," $308,850 ",8/10/17,Pedro,Vendida,318
+390,9/26/16,Departamento,Alquiler,Cancún,117," $823,680 ",1/19/17,María,Vendida,115
+391,9/26/16,Casa,Alquiler,Tijuana,299," $1,695,330 ",7/14/17,Joaquín,Vendida,291
+394,9/27/16,Departamento,Alquiler,Monterrey,291," $2,411,808 ",2/28/17,Joaquín,Vendida,154
+395,9/27/16,Oficina,Alquiler,Monterrey,210," $1,122,240 ",8/27/17,Pedro,Vendida,334
+396,9/28/16,Local,Alquiler,Monterrey,291," $2,354,481 ",1/26/17,Carmen,Vendida,120
+397,9/29/16,Departamento,Alquiler,Monterrey,204," $1,044,480 ",4/17/17,Jesús,Vendida,200
+398,9/29/16,Departamento,Alquiler,Tijuana,95," $510,150 ",5/7/17,Jesús,Vendida,220
+405,10/5/16,Local,Alquiler,Cancún,244," $2,332,152 ",6/5/17,Joaquín,Vendida,243
+408,10/5/16,Terreno,Alquiler,Cancún,68," $611,796 ",6/18/17,Luisa,Vendida,256
+409,10/6/16,Local,Alquiler,Tijuana,228," $1,554,732 ",8/17/17,Jesús,Vendida,315
+410,10/6/16,Local,Alquiler,Cancún,256," $1,877,760 ",4/14/17,María,Vendida,190
+412,10/6/16,Terreno,Alquiler,Ciudad de México,158," $1,217,390 ",4/27/17,Luisa,Vendida,203
+414,10/6/16,Oficina,Alquiler,Monterrey,219," $1,455,693 ",1/28/17,Joaquín,Vendida,114
+415,10/6/16,Estacionamiento,Alquiler,Cancún,83," $778,706 ",9/11/17,María,Vendida,340
+416,10/6/16,Casa,Alquiler,Tijuana,228," $1,685,148 ",10/5/17,Luisa,Vendida,364
+426,10/10/16,Casa,Alquiler,Cancún,74," $338,476 ",5/19/17,Jesús,Vendida,221
+427,10/10/16,Casa,Alquiler,Ciudad de México,110," $950,290 ",6/8/17,Carmen,Vendida,241
+430,10/11/16,Terreno,Alquiler,Cancún,278," $2,209,822 ",2/27/17,Jesús,Vendida,139
+431,10/12/16,Local,Alquiler,Cancún,67," $653,250 ",2/19/17,María,Vendida,130
+432,10/13/16,Local,Alquiler,Cancún,159," $1,323,198 ",8/26/17,Jesús,Vendida,317
+434,10/13/16,Local,Alquiler,Cancún,163," $1,115,409 ",3/14/17,María,Vendida,152
+436,10/14/16,Departamento,Alquiler,Tijuana,243," $1,469,178 ",2/18/17,Pedro,Vendida,127
+438,10/15/16,Terreno,Alquiler,Cancún,259," $1,891,736 ",7/18/17,María,Vendida,276
+439,10/15/16,Oficina,Alquiler,Monterrey,119," $630,224 ",4/9/17,Joaquín,Vendida,176
+445,10/17/16,Oficina,Alquiler,Tijuana,192," $1,627,200 ",1/27/17,Luisa,Vendida,102
+447,10/18/16,Estacionamiento,Alquiler,Tijuana,232," $2,180,104 ",7/19/17,Joaquín,Vendida,274
+448,10/18/16,Terreno,Alquiler,Tijuana,158," $878,638 ",5/5/17,Joaquín,Vendida,199
+449,10/18/16,Terreno,Alquiler,Cancún,49," $244,608 ",4/21/17,Pedro,Vendida,185
+451,10/19/16,Departamento,Alquiler,Cancún,206," $1,688,170 ",7/17/17,Jesús,Vendida,271
+455,10/21/16,Departamento,Alquiler,Monterrey,60," $484,560 ",8/24/17,Jesús,Vendida,307
+457,10/21/16,Oficina,Alquiler,Monterrey,239," $1,709,567 ",6/10/17,Jesús,Vendida,232
+459,10/23/16,Industrial,Alquiler,Tijuana,199," $1,278,774 ",4/6/17,Pedro,Vendida,165
+463,10/24/16,Casa,Alquiler,Cancún,87," $574,200 ",5/19/17,Carmen,Vendida,207
+464,10/24/16,Oficina,Alquiler,Ciudad de México,212," $1,968,632 ",10/23/17,Pedro,Vendida,364
+469,10/27/16,Departamento,Alquiler,Monterrey,62," $583,110 ",2/19/17,Joaquín,Vendida,115
+471,10/27/16,Estacionamiento,Alquiler,Monterrey,114," $1,040,478 ",4/29/17,Carmen,Vendida,184
+475,10/30/16,Local,Alquiler,Cancún,121," $593,021 ",2/28/17,Luisa,Vendida,121
+477,10/31/16,Terreno,Alquiler,Cancún,246," $2,214,984 ",9/22/17,Joaquín,Vendida,326
+478,10/31/16,Departamento,Alquiler,Monterrey,121," $731,929 ",6/27/17,Pedro,Vendida,239
+479,10/31/16,Oficina,Alquiler,Cancún,223," $1,566,129 ",4/6/17,Jesús,Vendida,157
+481,11/1/16,Departamento,Alquiler,Monterrey,159," $1,391,091 ",6/16/17,Carmen,Vendida,227
+482,11/1/16,Casa,Alquiler,Monterrey,157," $1,032,118 ",6/16/17,Luisa,Vendida,227
+483,11/2/16,Casa,Alquiler,Monterrey,237," $1,768,020 ",4/27/17,Luisa,Vendida,176
+485,11/2/16,Departamento,Alquiler,Ciudad de México,299," $2,430,272 ",3/26/17,Carmen,Vendida,144
+489,11/3/16,Oficina,Alquiler,Ciudad de México,251," $1,821,758 ",6/11/17,Luisa,Vendida,220
+492,11/3/16,Departamento,Alquiler,Monterrey,96," $891,456 ",7/28/17,Pedro,Vendida,267
+493,11/4/16,Local,Alquiler,Tijuana,152," $631,560 ",10/28/17,Joaquín,Vendida,358
+494,11/6/16,Oficina,Alquiler,Tijuana,246," $2,328,636 ",3/10/17,Luisa,Vendida,124
+496,11/6/16,Estacionamiento,Alquiler,Monterrey,110," $523,160 ",9/11/17,Joaquín,Vendida,309
+500,11/7/16,Estacionamiento,Alquiler,Ciudad de México,183," $1,082,079 ",9/7/17,Carmen,Vendida,304
+502,11/8/16,Casa,Alquiler,Cancún,88," $726,352 ",6/13/17,Joaquín,Vendida,217
+503,11/9/16,Departamento,Alquiler,Monterrey,185," $1,390,460 ",8/29/17,Jesús,Vendida,293
+504,11/9/16,Industrial,Alquiler,Ciudad de México,295," $2,923,155 ",5/6/17,Luisa,Vendida,178
+506,11/9/16,Oficina,Alquiler,Monterrey,147," $1,259,202 ",5/3/17,Pedro,Vendida,175
+508,11/9/16,Oficina,Alquiler,Ciudad de México,128," $549,120 ",3/16/17,Carmen,Vendida,127
+509,11/10/16,Industrial,Alquiler,Tijuana,145," $1,372,135 ",4/18/17,Pedro,Vendida,159
+511,11/11/16,Estacionamiento,Alquiler,Ciudad de México,272," $1,542,784 ",6/24/17,Joaquín,Vendida,225
+512,11/11/16,Casa,Alquiler,Ciudad de México,113," $645,569 ",6/10/17,Carmen,Vendida,211
+516,11/11/16,Casa,Alquiler,Ciudad de México,151," $719,213 ",2/23/17,Jesús,Vendida,104
+518,11/13/16,Terreno,Alquiler,Tijuana,160," $1,356,160 ",11/8/17,Luisa,Vendida,360
+519,11/13/16,Oficina,Alquiler,Ciudad de México,95," $412,395 ",7/31/17,María,Vendida,260
+520,11/13/16,Oficina,Alquiler,Ciudad de México,236," $1,420,012 ",10/31/17,Pedro,Vendida,352
+523,11/14/16,Casa,Alquiler,Cancún,226," $2,025,638 ",5/4/17,María,Vendida,171
+525,11/14/16,Estacionamiento,Alquiler,Ciudad de México,92," $610,696 ",5/4/17,Jesús,Vendida,171
+526,11/14/16,Industrial,Alquiler,Tijuana,229," $1,341,024 ",9/12/17,Jesús,Vendida,302
+527,11/14/16,Departamento,Alquiler,Cancún,226," $1,340,632 ",9/24/17,Luisa,Vendida,314
+528,11/15/16,Terreno,Alquiler,Ciudad de México,64," $581,568 ",2/15/17,Carmen,Vendida,92
+531,11/16/16,Casa,Alquiler,Tijuana,136," $1,072,768 ",4/2/17,Pedro,Vendida,137
+532,11/16/16,Estacionamiento,Alquiler,Monterrey,294," $1,653,456 ",7/18/17,Pedro,Vendida,244
+533,11/17/16,Oficina,Alquiler,Tijuana,294," $2,722,146 ",11/5/17,Joaquín,Vendida,353
+534,11/17/16,Terreno,Alquiler,Cancún,151," $1,029,367 ",5/5/17,Carmen,Vendida,169
+536,11/18/16,Local,Alquiler,Monterrey,116," $479,892 ",11/11/17,Joaquín,Vendida,358
+537,11/18/16,Industrial,Alquiler,Cancún,68," $500,140 ",10/27/17,Pedro,Vendida,343
+538,11/18/16,Oficina,Alquiler,Tijuana,59," $491,706 ",7/3/17,Jesús,Vendida,227
+541,11/19/16,Departamento,Alquiler,Cancún,197," $1,506,853 ",11/16/17,Jesús,Vendida,362
+542,11/20/16,Local,Alquiler,Tijuana,135," $1,036,665 ",11/8/17,Pedro,Vendida,353
+543,11/20/16,Terreno,Alquiler,Ciudad de México,200," $1,967,400 ",8/30/17,Pedro,Vendida,283
+544,11/20/16,Terreno,Alquiler,Ciudad de México,250," $1,676,500 ",8/30/17,Pedro,Vendida,283
+547,11/21/16,Departamento,Alquiler,Ciudad de México,155," $1,511,095 ",8/20/17,María,Vendida,272
+549,11/22/16,Industrial,Alquiler,Ciudad de México,197," $1,662,089 ",6/29/17,Carmen,Vendida,219
+550,11/22/16,Casa,Alquiler,Ciudad de México,270," $1,311,660 ",10/11/17,María,Vendida,323
+555,11/25/16,Estacionamiento,Alquiler,Monterrey,283," $2,213,909 ",5/10/17,Luisa,Vendida,166
+556,11/25/16,Estacionamiento,Alquiler,Ciudad de México,298," $2,039,512 ",10/11/17,Joaquín,Vendida,320
+557,11/25/16,Terreno,Alquiler,Tijuana,298," $2,376,550 ",10/19/17,Luisa,Vendida,328
+558,11/25/16,Terreno,Alquiler,Tijuana,151," $709,700 ",3/16/17,Carmen,Vendida,111
+559,11/26/16,Industrial,Alquiler,Tijuana,283," $1,615,647 ",6/6/17,Joaquín,Vendida,192
+560,11/27/16,Local,Alquiler,Cancún,73," $410,260 ",10/29/17,Carmen,Vendida,336
+564,11/29/16,Estacionamiento,Alquiler,Cancún,150," $795,000 ",10/17/17,Luisa,Vendida,322
+565,11/29/16,Casa,Alquiler,Monterrey,228," $2,212,740 ",10/10/17,Jesús,Vendida,315
+566,11/30/16,Oficina,Alquiler,Ciudad de México,164," $1,373,008 ",6/9/17,Pedro,Vendida,191
+567,12/1/16,Estacionamiento,Alquiler,Monterrey,116," $573,040 ",11/1/17,María,Vendida,335
+568,12/1/16,Industrial,Alquiler,Monterrey,276," $1,932,552 ",10/20/17,María,Vendida,323
+570,12/1/16,Industrial,Alquiler,Monterrey,216," $1,962,360 ",5/17/17,Pedro,Vendida,167
+573,12/2/16,Industrial,Alquiler,Cancún,177," $1,485,915 ",4/29/17,Carmen,Vendida,148
+575,12/3/16,Departamento,Alquiler,Monterrey,66," $558,030 ",12/1/17,Carmen,Vendida,363
+579,12/5/16,Departamento,Alquiler,Monterrey,237," $1,725,597 ",7/7/17,Pedro,Vendida,214
+580,12/5/16,Estacionamiento,Alquiler,Tijuana,206," $1,241,562 ",7/27/17,María,Vendida,234
+584,12/7/16,Casa,Alquiler,Monterrey,240," $1,510,320 ",10/19/17,Carmen,Vendida,316
+588,12/9/16,Casa,Alquiler,Cancún,84," $368,760 ",7/30/17,Luisa,Vendida,233
+589,12/10/16,Local,Alquiler,Cancún,227," $1,071,667 ",5/26/17,Carmen,Vendida,167
+592,12/10/16,Estacionamiento,Alquiler,Monterrey,96," $535,584 ",10/22/17,Carmen,Vendida,316
+593,12/10/16,Oficina,Alquiler,Tijuana,174," $1,271,592 ",7/13/17,Joaquín,Vendida,215
+597,12/11/16,Departamento,Alquiler,Ciudad de México,213," $1,994,532 ",4/22/17,María,Vendida,132
+599,12/12/16,Local,Alquiler,Ciudad de México,96," $769,824 ",10/3/17,Jesús,Vendida,295
+601,12/14/16,Departamento,Alquiler,Monterrey,232," $1,193,408 ",6/7/17,Luisa,Vendida,175
+604,12/15/16,Casa,Alquiler,Ciudad de México,126," $600,642 ",8/20/17,Jesús,Vendida,248
+605,12/15/16,Estacionamiento,Alquiler,Ciudad de México,131," $920,144 ",12/10/17,Jesús,Vendida,360
+607,12/16/16,Local,Alquiler,Tijuana,232," $1,236,560 ",11/20/17,Pedro,Vendida,339
+608,12/16/16,Terreno,Alquiler,Tijuana,199," $1,494,490 ",4/4/17,Joaquín,Vendida,109
+610,12/18/16,Casa,Alquiler,Tijuana,97," $672,792 ",5/23/17,Joaquín,Vendida,156
+613,12/19/16,Casa,Alquiler,Tijuana,212," $1,588,940 ",8/29/17,Carmen,Vendida,253
+614,12/19/16,Oficina,Alquiler,Tijuana,250," $1,127,750 ",4/4/17,Luisa,Vendida,106
+615,12/19/16,Terreno,Alquiler,Ciudad de México,278," $1,678,286 ",4/20/17,Jesús,Vendida,122
+616,12/20/16,Departamento,Alquiler,Tijuana,270," $2,427,300 ",9/6/17,Pedro,Vendida,260
+617,12/20/16,Terreno,Alquiler,Ciudad de México,212," $1,753,240 ",5/14/17,Joaquín,Vendida,145
+619,12/21/16,Casa,Alquiler,Cancún,225," $2,000,475 ",7/12/17,Jesús,Vendida,203
+623,12/22/16,Departamento,Alquiler,Monterrey,281," $2,326,118 ",7/22/17,María,Vendida,212
+627,12/23/16,Estacionamiento,Alquiler,Monterrey,88," $690,184 ",5/29/17,Carmen,Vendida,157
+628,12/23/16,Industrial,Alquiler,Monterrey,66," $448,932 ",9/1/17,Pedro,Vendida,252
+633,12/25/16,Departamento,Alquiler,Tijuana,292," $2,677,056 ",7/22/17,María,Vendida,209
+636,12/26/16,Oficina,Alquiler,Monterrey,159," $1,437,360 ",6/12/17,Luisa,Vendida,168
+638,12/27/16,Oficina,Alquiler,Cancún,86," $822,504 ",8/17/17,Jesús,Vendida,233
+640,12/27/16,Departamento,Alquiler,Cancún,222," $1,266,732 ",6/23/17,Pedro,Vendida,178
+642,12/27/16,Departamento,Alquiler,Tijuana,96," $862,848 ",12/23/17,María,Vendida,361
+646,12/31/16,Local,Alquiler,Tijuana,168," $1,508,472 ",12/3/17,Luisa,Vendida,337
+647,1/1/17,Estacionamiento,Alquiler,Tijuana,142," $1,276,864 ",10/24/17,María,Vendida,296
+649,1/1/17,Local,Alquiler,Tijuana,269," $1,360,064 ",8/17/17,Jesús,Vendida,228
+651,1/2/17,Industrial,Alquiler,Ciudad de México,201," $1,176,855 ",10/7/17,María,Vendida,278
+652,1/2/17,Terreno,Alquiler,Monterrey,86," $452,962 ",10/24/17,Joaquín,Vendida,295
+653,1/3/17,Departamento,Alquiler,Cancún,237," $1,177,653 ",11/10/17,Joaquín,Vendida,311
+655,1/3/17,Departamento,Alquiler,Tijuana,172," $1,615,424 ",11/19/17,Carmen,Vendida,320
+656,1/4/17,Industrial,Alquiler,Cancún,216," $2,022,624 ",5/7/17,Jesús,Vendida,123
+657,1/4/17,Estacionamiento,Alquiler,Tijuana,206," $1,231,262 ",7/10/17,Luisa,Vendida,187
+658,1/4/17,Casa,Alquiler,Monterrey,79," $352,972 ",11/6/17,Joaquín,Vendida,306
+660,1/5/17,Departamento,Alquiler,Ciudad de México,269," $1,089,181 ",7/25/17,Joaquín,Vendida,201
+661,1/5/17,Departamento,Alquiler,Cancún,221," $1,194,505 ",12/12/17,María,Vendida,341
+662,1/5/17,Industrial,Alquiler,Tijuana,143," $1,106,677 ",8/8/17,María,Vendida,215
+663,1/6/17,Industrial,Alquiler,Tijuana,170," $1,262,250 ",11/29/17,Luisa,Vendida,327
+664,1/6/17,Casa,Alquiler,Ciudad de México,171," $1,236,672 ",6/7/17,Luisa,Vendida,152
+665,1/6/17,Industrial,Alquiler,Monterrey,153," $923,355 ",7/7/17,Luisa,Vendida,182
+669,1/8/17,Departamento,Alquiler,Monterrey,59," $325,326 ",4/9/17,Carmen,Vendida,91
+670,1/9/17,Casa,Alquiler,Ciudad de México,264," $1,441,440 ",10/28/17,Pedro,Vendida,292
+672,1/9/17,Local,Alquiler,Cancún,286," $1,732,302 ",8/26/17,Joaquín,Vendida,229
+674,1/11/17,Terreno,Alquiler,Cancún,186," $1,844,004 ",6/19/17,Pedro,Vendida,159
+675,1/11/17,Departamento,Alquiler,Cancún,217," $1,603,196 ",12/11/17,Joaquín,Vendida,334
+676,1/11/17,Estacionamiento,Alquiler,Monterrey,260," $2,402,920 ",10/9/17,Joaquín,Vendida,271
+677,1/11/17,Terreno,Alquiler,Monterrey,240," $1,823,280 ",9/4/17,Luisa,Vendida,236
+678,1/11/17,Oficina,Alquiler,Tijuana,157," $949,693 ",11/27/17,Jesús,Vendida,320
+679,1/12/17,Casa,Alquiler,Tijuana,279," $2,362,572 ",9/25/17,Luisa,Vendida,256
+685,1/14/17,Oficina,Alquiler,Tijuana,251," $2,138,771 ",5/15/17,Carmen,Vendida,121
+686,1/14/17,Local,Alquiler,Ciudad de México,149," $1,250,408 ",10/30/17,Pedro,Vendida,289
+687,1/15/17,Terreno,Alquiler,Monterrey,45," $300,105 ",6/2/17,Carmen,Vendida,138
+695,1/19/17,Departamento,Alquiler,Monterrey,80," $607,200 ",11/20/17,Carmen,Vendida,305
+696,1/19/17,Industrial,Alquiler,Ciudad de México,200," $1,502,800 ",10/14/17,Joaquín,Vendida,268
+703,1/22/17,Departamento,Alquiler,Monterrey,132," $592,152 ",4/23/17,Carmen,Vendida,91
+704,1/22/17,Oficina,Alquiler,Cancún,246," $2,083,866 ",7/25/17,Luisa,Vendida,184
+705,1/22/17,Industrial,Alquiler,Ciudad de México,293," $2,141,830 ",9/19/17,Joaquín,Vendida,240
+706,1/23/17,Estacionamiento,Alquiler,Tijuana,290," $2,275,050 ",9/20/17,Jesús,Vendida,240
+708,1/23/16,Local,Alquiler,Tijuana,212,1911604 ,1/14/18,María,Vendida,722
+709,1/24/17,Oficina,Alquiler,Tijuana,254," $1,850,644 ",11/28/17,Carmen,Vendida,308
+711,1/24/17,Local,Alquiler,Ciudad de México,287," $2,279,354 ",12/15/17,Joaquín,Vendida,325
+712,1/24/17,Departamento,Alquiler,Tijuana,180," $1,128,420 ",10/13/17,Carmen,Vendida,262
+714,1/25/16,Oficina,Alquiler,Cancún,210,1332030 ,1/2/18,Carmen,Vendida,708
+715,1/25/17,Estacionamiento,Alquiler,Monterrey,287," $1,370,138 ",5/3/17,Joaquín,Vendida,98
+717,1/25/17,Departamento,Alquiler,Ciudad de México,260," $2,546,180 ",5/23/17,Carmen,Vendida,118
+718,1/26/16,Estacionamiento,Alquiler,Cancún,197,1199730 ,1/13/18,Luisa,Vendida,718
+719,1/26/17,Industrial,Alquiler,Cancún,144," $760,176 ",10/20/17,Pedro,Vendida,267
+721,1/28/17,Local,Alquiler,Tijuana,253," $1,816,793 ",10/22/17,Pedro,Vendida,267
+723,1/29/17,Departamento,Alquiler,Cancún,299," $2,130,375 ",10/28/17,Carmen,Vendida,272
+724,1/31/17,Estacionamiento,Alquiler,Monterrey,222," $2,209,344 ",9/9/17,Carmen,Vendida,221
+730,2/2/17,Industrial,Alquiler,Monterrey,82," $621,314 ",9/7/17,Luisa,Vendida,217
+731,2/2/16,Departamento,Alquiler,Cancún,243,1814238 ,1/29/18,Jesús,Vendida,727
+732,2/2/17,Terreno,Alquiler,Ciudad de México,73," $468,952 ",6/11/17,Joaquín,Vendida,129
+736,2/3/17,Estacionamiento,Alquiler,Cancún,97," $541,648 ",6/11/17,Carmen,Vendida,128
+738,2/5/17,Terreno,Alquiler,Cancún,105," $650,580 ",5/26/17,Carmen,Vendida,110
+739,2/5/17,Industrial,Alquiler,Ciudad de México,199," $1,009,328 ",12/4/17,Pedro,Vendida,302
+740,2/5/17,Estacionamiento,Alquiler,Cancún,286," $2,064,634 ",5/26/17,Carmen,Vendida,110
+742,2/6/17,Estacionamiento,Alquiler,Tijuana,87," $372,447 ",7/17/17,Jesús,Vendida,161
+743,2/6/17,Industrial,Alquiler,Tijuana,210," $1,602,300 ",6/26/17,Pedro,Vendida,140
+746,2/8/17,Departamento,Alquiler,Ciudad de México,179," $963,020 ",11/6/17,Pedro,Vendida,271
+748,2/8/17,Casa,Alquiler,Monterrey,154," $1,037,498 ",9/20/17,Luisa,Vendida,224
+749,2/9/17,Estacionamiento,Alquiler,Ciudad de México,293," $2,741,308 ",10/20/17,María,Vendida,253
+750,2/10/17,Local,Alquiler,Tijuana,286," $1,912,482 ",11/26/17,Pedro,Vendida,289
+756,2/13/16,Casa,Alquiler,Cancún,245,2287075 ,1/31/18,Luisa,Vendida,718
+758,2/14/17,Departamento,Alquiler,Cancún,75," $359,775 ",5/29/17,María,Vendida,104
+760,2/14/17,Oficina,Alquiler,Monterrey,119," $899,640 ",12/12/17,Pedro,Vendida,301
+761,2/15/17,Casa,Alquiler,Tijuana,58," $444,338 ",6/4/17,Carmen,Vendida,109
+763,2/15/17,Departamento,Alquiler,Tijuana,92," $900,956 ",6/14/17,Pedro,Vendida,119
+766,2/16/17,Casa,Alquiler,Cancún,58," $349,102 ",10/22/17,Carmen,Vendida,248
+774,2/17/17,Terreno,Alquiler,Tijuana,254," $1,394,206 ",5/28/17,Carmen,Vendida,100
+775,2/17/16,Terreno,Alquiler,Tijuana,256,2176768 ,2/13/18,Carmen,Vendida,727
+776,2/17/17,Departamento,Alquiler,Cancún,106," $850,226 ",9/2/17,Joaquín,Vendida,197
+778,2/18/17,Industrial,Alquiler,Ciudad de México,153," $1,519,137 ",6/20/17,Carmen,Vendida,122
+779,2/18/16,Oficina,Alquiler,Tijuana,233,984192 ,1/28/18,Jesús,Vendida,710
+780,2/18/17,Oficina,Alquiler,Ciudad de México,61," $481,656 ",9/18/17,Carmen,Vendida,212
+781,2/18/17,Departamento,Alquiler,Ciudad de México,105," $909,090 ",10/25/17,Jesús,Vendida,249
+785,2/20/17,Departamento,Alquiler,Tijuana,292," $2,865,688 ",8/21/17,Carmen,Vendida,182
+794,2/22/17,Industrial,Alquiler,Cancún,81," $523,989 ",10/13/17,Joaquín,Vendida,233
+796,2/23/17,Terreno,Alquiler,Ciudad de México,214," $1,665,134 ",10/21/17,Pedro,Vendida,240
+797,2/23/17,Departamento,Alquiler,Ciudad de México,227," $1,820,540 ",10/12/17,Luisa,Vendida,231
+800,2/24/16,Casa,Alquiler,Cancún,150,1051500 ,2/17/18,Joaquín,Vendida,724
+801,2/24/17,Local,Alquiler,Cancún,165," $744,480 ",8/6/17,Jesús,Vendida,163
+806,2/26/17,Local,Alquiler,Monterrey,62," $484,592 ",10/9/17,María,Vendida,225
+808,2/27/17,Terreno,Alquiler,Ciudad de México,77," $711,634 ",11/10/17,Jesús,Vendida,256
+811,2/28/17,Oficina,Alquiler,Tijuana,70," $354,270 ",11/18/17,Jesús,Vendida,263
+812,2/28/16,Casa,Alquiler,Tijuana,45,425790 ,1/16/18,María,Vendida,688
+814,3/1/17,Estacionamiento,Alquiler,Monterrey,45," $360,540 ",9/2/17,María,Vendida,185
+815,3/1/17,Oficina,Alquiler,Ciudad de México,94," $639,952 ",9/26/17,Luisa,Vendida,209
+817,3/3/16,Casa,Alquiler,Monterrey,151,756208 ,2/13/18,Luisa,Vendida,712
+818,3/3/17,Industrial,Alquiler,Monterrey,50," $442,300 ",6/30/17,María,Vendida,119
+819,3/3/17,Estacionamiento,Alquiler,Monterrey,93," $375,813 ",7/12/17,Pedro,Vendida,131
+820,3/3/17,Departamento,Alquiler,Tijuana,255," $1,471,605 ",10/11/17,Carmen,Vendida,222
+823,3/4/16,Casa,Alquiler,Monterrey,235,2055310 ,1/3/18,Jesús,Vendida,670
+824,3/4/17,Casa,Alquiler,Tijuana,239," $1,320,236 ",8/3/17,Carmen,Vendida,152
+825,3/4/17,Casa,Alquiler,Cancún,191," $969,707 ",12/5/17,Pedro,Vendida,276
+826,3/4/17,Departamento,Alquiler,Monterrey,92," $743,360 ",8/11/17,Pedro,Vendida,160
+830,3/6/17,Oficina,Alquiler,Tijuana,42," $235,746 ",7/25/17,Joaquín,Vendida,141
+833,3/7/17,Terreno,Alquiler,Cancún,139," $1,100,046 ",8/28/17,María,Vendida,174
+839,3/8/16,Terreno,Alquiler,Monterrey,236,1449512 ,2/5/18,Joaquín,Vendida,699
+840,3/8/17,Departamento,Alquiler,Monterrey,91," $395,850 ",12/10/17,Carmen,Vendida,277
+841,3/9/16,Terreno,Alquiler,Ciudad de México,247,1504477 ,1/3/18,Jesús,Vendida,665
+845,3/10/17,Casa,Alquiler,Monterrey,145," $655,690 ",6/8/17,María,Vendida,90
+846,3/10/17,Departamento,Alquiler,Ciudad de México,42," $293,370 ",8/20/17,Pedro,Vendida,163
+847,3/10/17,Departamento,Alquiler,Ciudad de México,281," $2,688,046 ",10/24/17,Luisa,Vendida,228
+852,3/12/17,Local,Alquiler,Tijuana,269," $2,032,295 ",11/27/17,Joaquín,Vendida,260
+853,3/12/17,Departamento,Alquiler,Cancún,245," $1,377,880 ",7/10/17,Joaquín,Vendida,120
+858,3/14/17,Industrial,Alquiler,Monterrey,164," $1,526,840 ",10/20/17,María,Vendida,220
+859,3/14/17,Departamento,Alquiler,Cancún,188," $996,588 ",6/20/17,Carmen,Vendida,98
+860,3/14/16,Terreno,Alquiler,Cancún,79,451643 ,1/15/18,María,Vendida,672
+863,3/16/16,Local,Alquiler,Tijuana,138,949578 ,2/17/18,María,Vendida,703
+868,3/19/16,Casa,Alquiler,Ciudad de México,55,376090 ,2/27/18,Joaquín,Vendida,710
+871,3/19/17,Industrial,Alquiler,Ciudad de México,285," $2,562,435 ",6/20/17,Carmen,Vendida,93
+872,3/19/17,Local,Alquiler,Cancún,88," $630,608 ",12/17/17,Joaquín,Vendida,273
+873,3/20/17,Departamento,Alquiler,Monterrey,100," $484,200 ",9/30/17,Pedro,Vendida,194
+874,3/20/17,Industrial,Alquiler,Monterrey,52," $269,516 ",8/21/17,Carmen,Vendida,154
+875,3/20/17,Oficina,Alquiler,Tijuana,274," $1,152,718 ",7/31/17,Pedro,Vendida,133
+879,3/22/16,Departamento,Alquiler,Cancún,182,851032 ,1/2/18,Carmen,Vendida,651
+880,3/22/17,Estacionamiento,Alquiler,Tijuana,99," $500,148 ",8/9/17,Joaquín,Vendida,140
+882,3/23/17,Local,Alquiler,Tijuana,150," $730,350 ",6/28/17,Carmen,Vendida,97
+884,3/23/16,Industrial,Alquiler,Tijuana,71,459725 ,1/26/18,Joaquín,Vendida,674
+889,3/25/17,Casa,Alquiler,Cancún,241," $1,248,862 ",8/22/17,Jesús,Vendida,150
+892,3/26/16,Terreno,Alquiler,Cancún,187,1194930 ,2/8/18,Jesús,Vendida,684
+893,3/26/17,Industrial,Alquiler,Tijuana,68," $525,096 ",8/27/17,Joaquín,Vendida,154
+895,3/28/17,Oficina,Alquiler,Cancún,186," $1,843,074 ",10/4/17,Pedro,Vendida,190
+896,3/28/17,Terreno,Alquiler,Tijuana,67," $627,321 ",7/12/17,Joaquín,Vendida,106
+899,3/30/16,Industrial,Alquiler,Monterrey,167,1191044 ,3/30/18,Joaquín,Vendida,730
+901,3/30/16,Casa,Alquiler,Tijuana,88,531784 ,1/11/18,Joaquín,Vendida,652
+903,3/30/17,Terreno,Alquiler,Monterrey,216," $1,500,984 ",10/23/17,Joaquín,Vendida,207
+906,4/1/17,Departamento,Alquiler,Cancún,278," $1,754,180 ",12/3/17,Luisa,Vendida,246
+907,4/2/17,Industrial,Alquiler,Ciudad de México,222," $1,617,270 ",12/4/17,Luisa,Vendida,246
+908,4/2/16,Industrial,Alquiler,Ciudad de México,285,2232690 ,1/29/18,María,Vendida,667
+909,4/2/17,Departamento,Alquiler,Ciudad de México,132," $1,040,028 ",11/17/17,María,Vendida,229
+911,4/3/17,Industrial,Alquiler,Ciudad de México,285," $1,938,000 ",9/26/17,Joaquín,Vendida,176
+914,4/4/17,Local,Alquiler,Monterrey,179," $812,660 ",10/31/17,Jesús,Vendida,210
+915,4/5/17,Terreno,Alquiler,Cancún,75," $400,875 ",8/26/17,Joaquín,Vendida,143
+916,4/5/17,Departamento,Alquiler,Monterrey,72," $682,344 ",8/26/17,Pedro,Vendida,143
+917,4/5/17,Estacionamiento,Alquiler,Monterrey,297," $2,872,287 ",9/16/17,Luisa,Vendida,164
+919,4/5/16,Casa,Alquiler,Cancún,244,2413648 ,1/6/18,María,Vendida,641
+920,4/5/17,Casa,Alquiler,Cancún,259," $1,857,807 ",11/7/17,Luisa,Vendida,216
+921,4/5/17,Casa,Alquiler,Ciudad de México,175," $1,560,125 ",7/21/17,Luisa,Vendida,107
+923,4/6/17,Industrial,Alquiler,Ciudad de México,170," $1,566,720 ",9/2/17,Pedro,Vendida,149
+926,4/7/17,Oficina,Alquiler,Monterrey,214," $899,228 ",12/24/17,Luisa,Vendida,261
+940,4/15/17,Estacionamiento,Alquiler,Ciudad de México,99," $574,200 ",9/16/17,Pedro,Vendida,154
+941,4/15/16,Casa,Alquiler,Ciudad de México,267,1517628 ,2/14/18,Carmen,Vendida,670
+942,4/15/17,Casa,Alquiler,Monterrey,185," $1,059,680 ",7/14/17,Pedro,Vendida,90
+944,4/16/17,Departamento,Alquiler,Ciudad de México,165," $921,195 ",10/5/17,Luisa,Vendida,172
+945,4/17/16,Local,Alquiler,Cancún,142,1205864 ,2/5/18,Luisa,Vendida,659
+946,4/17/16,Estacionamiento,Alquiler,Ciudad de México,116,1035416 ,2/1/18,María,Vendida,655
+947,4/17/17,Departamento,Alquiler,Tijuana,223," $1,795,819 ",8/30/17,Luisa,Vendida,135
+949,4/17/17,Casa,Alquiler,Cancún,275," $1,543,850 ",12/21/17,María,Vendida,248
+950,4/18/16,Casa,Alquiler,Ciudad de México,281,1727588 ,4/7/18,Luisa,Vendida,719
+951,4/18/16,Departamento,Alquiler,Monterrey,164,841484 ,4/7/18,María,Vendida,719
+952,4/18/17,Local,Alquiler,Monterrey,271," $2,478,566 ",7/21/17,Pedro,Vendida,94
+954,4/19/16,Departamento,Alquiler,Ciudad de México,84,431760 ,4/9/18,Carmen,Vendida,720
+956,4/19/17,Departamento,Alquiler,Tijuana,73," $563,122 ",10/25/17,Carmen,Vendida,189
+957,4/19/17,Industrial,Alquiler,Tijuana,152," $651,472 ",9/13/17,Carmen,Vendida,147
+959,4/20/17,Estacionamiento,Alquiler,Tijuana,273," $2,306,031 ",9/25/17,Carmen,Vendida,158
+961,4/20/16,Casa,Alquiler,Ciudad de México,263,2094795 ,2/12/18,Carmen,Vendida,663
+963,4/21/17,Estacionamiento,Alquiler,Cancún,281," $1,619,122 ",9/26/17,Luisa,Vendida,158
+965,4/21/16,Terreno,Alquiler,Ciudad de México,79,705628 ,2/25/18,Luisa,Vendida,675
+967,4/22/17,Industrial,Alquiler,Cancún,266," $2,583,126 ",12/2/17,Pedro,Vendida,224
+968,4/23/17,Local,Alquiler,Monterrey,69," $493,971 ",9/5/17,María,Vendida,135
+970,4/24/16,Oficina,Alquiler,Cancún,77,716793 ,2/25/18,Pedro,Vendida,672
+974,4/25/16,Terreno,Alquiler,Tijuana,269,2292149 ,1/22/18,Carmen,Vendida,637
+976,4/25/16,Terreno,Alquiler,Ciudad de México,51,370158 ,4/21/18,Jesús,Vendida,726
+977,4/25/17,Local,Alquiler,Tijuana,50," $333,650 ",12/16/17,Carmen,Vendida,235
+981,4/26/16,Terreno,Alquiler,Monterrey,98,425712 ,3/23/18,Pedro,Vendida,696
+984,4/27/17,Industrial,Alquiler,Tijuana,269," $1,702,501 ",12/10/17,Luisa,Vendida,227
+986,4/28/16,Departamento,Alquiler,Cancún,158,886222 ,4/24/18,Luisa,Vendida,726
+993,4/30/16,Oficina,Alquiler,Cancún,172,1441188 ,4/12/18,Luisa,Vendida,712
+998,5/2/16,Terreno,Alquiler,Monterrey,81,567486 ,1/26/18,María,Vendida,634
+1000,5/2/16,Estacionamiento,Alquiler,Ciudad de México,128,976384 ,4/19/18,Joaquín,Vendida,717
+1001,5/2/16,Oficina,Alquiler,Ciudad de México,240,1270800 ,4/25/18,Luisa,Vendida,723
+1002,5/3/16,Casa,Alquiler,Tijuana,77,406252 ,2/25/18,María,Vendida,663
+1009,5/5/17,Oficina,Alquiler,Cancún,186," $1,543,428 ",8/25/17,Pedro,Vendida,112
+1010,5/6/17,Estacionamiento,Alquiler,Tijuana,119," $1,013,523 ",8/17/17,Joaquín,Vendida,103
+1012,5/6/16,Terreno,Alquiler,Ciudad de México,94,902212 ,4/30/18,Jesús,Vendida,724
+1015,5/7/16,Oficina,Alquiler,Ciudad de México,101,634583 ,4/21/18,María,Vendida,714
+1017,5/8/16,Casa,Alquiler,Tijuana,245,1244600 ,1/3/18,Luisa,Vendida,605
+1018,5/8/17,Oficina,Alquiler,Ciudad de México,141," $843,180 ",12/25/17,Carmen,Vendida,231
+1022,5/9/16,Industrial,Alquiler,Monterrey,160,804640 ,4/3/18,Carmen,Vendida,694
+1023,5/9/17,Terreno,Alquiler,Monterrey,235," $1,046,925 ",12/5/17,Carmen,Vendida,210
+1027,5/10/16,Industrial,Alquiler,Ciudad de México,292,1177052 ,4/30/18,Jesús,Vendida,720
+1028,5/10/17,Local,Alquiler,Ciudad de México,223," $1,623,217 ",8/12/17,Luisa,Vendida,94
+1029,5/10/16,Oficina,Alquiler,Tijuana,107,899014 ,4/9/18,María,Vendida,699
+1034,5/14/17,Terreno,Alquiler,Monterrey,254," $2,417,572 ",9/20/17,María,Vendida,129
+1042,5/18/17,Departamento,Alquiler,Cancún,119," $999,481 ",9/8/17,María,Vendida,113
+1043,5/18/16,Industrial,Alquiler,Monterrey,233,2120067 ,2/24/18,Jesús,Vendida,647
+1045,5/21/17,Departamento,Alquiler,Cancún,209," $1,206,766 ",11/9/17,Joaquín,Vendida,172
+1046,5/21/17,Terreno,Alquiler,Tijuana,179," $896,969 ",9/14/17,Carmen,Vendida,116
+1047,5/21/16,Casa,Alquiler,Tijuana,97,834394 ,5/20/18,Jesús,Vendida,729
+1049,5/21/17,Departamento,Alquiler,Cancún,87," $520,521 ",9/15/17,Carmen,Vendida,117
+1050,5/21/16,Industrial,Alquiler,Tijuana,244,1300276 ,3/21/18,Joaquín,Vendida,669
+1053,5/22/16,Estacionamiento,Alquiler,Monterrey,282,1132230 ,3/20/18,Pedro,Vendida,667
+1054,5/23/17,Estacionamiento,Alquiler,Cancún,280," $1,240,400 ",11/4/17,Jesús,Vendida,165
+1055,5/23/17,Local,Alquiler,Tijuana,185," $1,583,785 ",9/17/17,Luisa,Vendida,117
+1057,5/24/17,Casa,Alquiler,Cancún,86," $467,410 ",9/15/17,Jesús,Vendida,114
+1058,5/24/17,Estacionamiento,Alquiler,Monterrey,223," $2,228,439 ",9/17/17,Carmen,Vendida,116
+1059,5/24/17,Terreno,Alquiler,Cancún,195," $1,539,135 ",10/2/17,Luisa,Vendida,131
+1060,5/25/16,Local,Alquiler,Ciudad de México,200,1046800 ,3/3/18,María,Vendida,647
+1064,5/26/16,Industrial,Alquiler,Cancún,273,1610973 ,3/21/18,Pedro,Vendida,664
+1066,5/27/17,Casa,Alquiler,Monterrey,80," $548,000 ",11/30/17,Joaquín,Vendida,187
+1072,5/29/16,Industrial,Alquiler,Cancún,249,2116251 ,1/14/18,Carmen,Vendida,595
+1074,5/29/16,Casa,Alquiler,Cancún,73,672257 ,2/15/18,Luisa,Vendida,627
+1075,5/29/16,Departamento,Alquiler,Ciudad de México,204,958392 ,1/21/18,Joaquín,Vendida,602
+1076,5/29/16,Departamento,Alquiler,Tijuana,137,585812 ,1/26/18,Luisa,Vendida,607
+1078,5/31/17,Oficina,Alquiler,Tijuana,96," $567,072 ",10/30/17,Jesús,Vendida,152
+1079,5/31/16,Oficina,Alquiler,Ciudad de México,188,1579012 ,4/14/18,María,Vendida,683
+1080,6/1/16,Departamento,Alquiler,Monterrey,85,706690 ,1/3/18,Joaquín,Vendida,581
+1081,6/1/17,Terreno,Alquiler,Tijuana,69," $499,698 ",8/31/17,Pedro,Vendida,91
+1084,6/4/16,Terreno,Alquiler,Ciudad de México,258,1687836 ,3/25/18,María,Vendida,659
+1085,6/4/16,Departamento,Alquiler,Cancún,193,1605374 ,1/13/18,Joaquín,Vendida,588
+1091,6/6/16,Oficina,Alquiler,Monterrey,228,1039452 ,1/11/18,Carmen,Vendida,584
+1094,6/7/17,Estacionamiento,Alquiler,Cancún,177," $1,591,584 ",10/30/17,Joaquín,Vendida,145
+1096,6/8/16,Departamento,Alquiler,Cancún,61,525454 ,4/10/18,Luisa,Vendida,671
+1099,6/9/16,Oficina,Alquiler,Cancún,131,1297686 ,5/1/18,Carmen,Vendida,691
+1100,6/9/16,Terreno,Alquiler,Ciudad de México,54,419256 ,3/8/18,Pedro,Vendida,637
+1101,6/9/16,Industrial,Alquiler,Cancún,274,2690954 ,5/17/18,Joaquín,Vendida,707
+1102,6/9/17,Casa,Alquiler,Cancún,67," $485,013 ",11/27/17,Joaquín,Vendida,171
+1103,6/10/16,Estacionamiento,Alquiler,Ciudad de México,141,1250952 ,2/26/18,Luisa,Vendida,626
+1105,6/11/16,Casa,Alquiler,Cancún,269,2549313 ,2/20/18,Carmen,Vendida,619
+1106,6/11/16,Casa,Alquiler,Cancún,53,216187 ,4/18/18,Jesús,Vendida,676
+1107,6/11/17,Estacionamiento,Alquiler,Ciudad de México,248," $2,172,232 ",9/20/17,Pedro,Vendida,101
+1108,6/12/16,Estacionamiento,Alquiler,Monterrey,73,364270 ,2/2/18,María,Vendida,600
+1109,6/12/16,Casa,Alquiler,Cancún,229,1504301 ,4/8/18,Joaquín,Vendida,665
+1112,6/13/17,Local,Alquiler,Cancún,261," $1,344,933 ",9/24/17,Pedro,Vendida,103
+1113,6/13/16,Terreno,Alquiler,Tijuana,157,868367 ,6/3/18,Jesús,Vendida,720
+1115,6/13/16,Estacionamiento,Alquiler,Tijuana,282,2677590 ,4/8/18,Luisa,Vendida,664
+1117,6/15/17,Local,Alquiler,Monterrey,167," $1,121,906 ",11/12/17,Carmen,Vendida,150
+1119,6/15/16,Terreno,Alquiler,Tijuana,106,704476 ,2/7/18,Joaquín,Vendida,602
+1122,6/16/16,Oficina,Alquiler,Monterrey,138,1241034 ,6/5/18,Carmen,Vendida,719
+1123,6/16/16,Departamento,Alquiler,Cancún,165,1405305 ,2/1/18,Carmen,Vendida,595
+1124,6/16/17,Industrial,Alquiler,Cancún,250," $1,001,750 ",11/23/17,Joaquín,Vendida,160
+1125,6/17/16,Terreno,Alquiler,Cancún,201,1471320 ,3/11/18,Carmen,Vendida,632
+1129,6/18/17,Casa,Alquiler,Monterrey,55," $256,630 ",10/23/17,María,Vendida,127
+1130,6/19/17,Industrial,Alquiler,Tijuana,175," $1,084,300 ",10/10/17,Luisa,Vendida,113
+1134,6/21/16,Industrial,Alquiler,Ciudad de México,157,977011 ,3/3/18,Carmen,Vendida,620
+1137,6/22/16,Terreno,Alquiler,Monterrey,256,2512640 ,3/16/18,Jesús,Vendida,632
+1143,6/23/16,Casa,Alquiler,Monterrey,261,2419209 ,5/25/18,María,Vendida,701
+1145,6/24/16,Terreno,Alquiler,Monterrey,110,781000 ,2/25/18,María,Vendida,611
+1146,6/26/17,Departamento,Alquiler,Ciudad de México,200," $1,689,000 ",9/30/17,Luisa,Vendida,96
+1148,6/28/17,Terreno,Alquiler,Monterrey,139," $1,217,501 ",11/20/17,Joaquín,Vendida,145
+1149,6/28/17,Local,Alquiler,Monterrey,151," $1,456,999 ",10/1/17,Carmen,Vendida,95
+1152,6/29/17,Casa,Alquiler,Tijuana,53," $399,143 ",11/8/17,Jesús,Vendida,132
+1155,6/29/17,Departamento,Alquiler,Cancún,134," $880,380 ",12/11/17,María,Vendida,165
+1159,6/30/17,Oficina,Alquiler,Monterrey,204," $1,132,608 ",11/12/17,María,Vendida,135
+1160,6/30/16,Oficina,Alquiler,Monterrey,185,1257075 ,6/6/18,María,Vendida,706
+1161,6/30/16,Departamento,Alquiler,Cancún,69,480240 ,6/7/18,Jesús,Vendida,707
+1163,7/1/16,Departamento,Alquiler,Monterrey,260,1542580 ,5/3/18,Luisa,Vendida,671
+1164,7/1/16,Local,Alquiler,Monterrey,71,540452 ,1/24/18,Jesús,Vendida,572
+1165,7/2/16,Local,Alquiler,Tijuana,217,1742293 ,4/13/18,Pedro,Vendida,650
+1169,7/4/16,Industrial,Alquiler,Monterrey,161,1405852 ,5/14/18,Pedro,Vendida,679
+1171,7/5/17,Terreno,Alquiler,Cancún,227," $2,223,919 ",11/19/17,Joaquín,Vendida,137
+1177,7/7/16,Departamento,Alquiler,Monterrey,135,1294110 ,3/8/18,Jesús,Vendida,609
+1179,7/8/16,Casa,Alquiler,Tijuana,45,330885 ,4/16/18,Jesús,Vendida,647
+1180,7/8/17,Oficina,Alquiler,Cancún,59," $519,259 ",10/30/17,María,Vendida,114
+1181,7/9/17,Departamento,Alquiler,Tijuana,176," $804,144 ",11/24/17,María,Vendida,138
+1182,7/9/16,Terreno,Alquiler,Monterrey,167,944385 ,2/15/18,Carmen,Vendida,586
+1184,7/11/17,Departamento,Alquiler,Tijuana,130," $859,040 ",11/6/17,Joaquín,Vendida,118
+1186,7/12/17,Terreno,Alquiler,Tijuana,132," $708,840 ",11/3/17,Luisa,Vendida,114
+1187,7/12/16,Departamento,Alquiler,Cancún,183,1388238 ,6/13/18,Joaquín,Vendida,701
+1189,7/13/17,Terreno,Alquiler,Cancún,163," $830,648 ",10/30/17,Joaquín,Vendida,109
+1190,7/13/16,Departamento,Alquiler,Monterrey,138,824688 ,5/16/18,Joaquín,Vendida,672
+1191,7/14/17,Casa,Alquiler,Monterrey,177," $1,074,921 ",10/25/17,Luisa,Vendida,103
+1192,7/15/16,Casa,Alquiler,Tijuana,291,1823406 ,5/2/18,Pedro,Vendida,656
+1197,7/16/16,Departamento,Alquiler,Ciudad de México,140,706440 ,6/2/18,Pedro,Vendida,686
+1198,7/16/17,Oficina,Alquiler,Cancún,296," $2,057,496 ",11/13/17,Jesús,Vendida,120
+1199,7/17/16,Departamento,Alquiler,Ciudad de México,210,2005080 ,4/25/18,Pedro,Vendida,647
+1200,7/17/16,Oficina,Alquiler,Cancún,273,2202837 ,6/27/18,María,Vendida,710
+1201,7/17/16,Estacionamiento,Alquiler,Tijuana,67,347931 ,4/28/18,Pedro,Vendida,650
+1203,7/18/16,Local,Alquiler,Tijuana,300,1716300 ,4/21/18,María,Vendida,642
+1205,7/18/16,Departamento,Alquiler,Tijuana,203,1699719 ,1/10/18,Jesús,Vendida,541
+1207,7/20/16,Departamento,Alquiler,Ciudad de México,298,2207286 ,7/9/18,Pedro,Vendida,719
+1208,7/20/17,Departamento,Alquiler,Cancún,288," $1,186,560 ",11/5/17,Luisa,Vendida,108
+1212,7/21/17,Terreno,Alquiler,Cancún,233," $2,224,917 ",10/27/17,Jesús,Vendida,98
+1213,7/21/16,Estacionamiento,Alquiler,Ciudad de México,297,2463021 ,3/13/18,María,Vendida,600
+1214,7/22/16,Terreno,Alquiler,Monterrey,300,1832100 ,5/2/18,Carmen,Vendida,649
+1219,7/23/16,Local,Alquiler,Monterrey,245,2170945 ,5/14/18,Jesús,Vendida,660
+1224,7/24/17,Casa,Alquiler,Cancún,77," $562,947 ",10/25/17,Luisa,Vendida,93
+1227,7/25/16,Terreno,Alquiler,Tijuana,264,2133120 ,1/26/18,María,Vendida,550
+1229,7/26/17,Industrial,Alquiler,Monterrey,167," $1,606,206 ",12/11/17,Joaquín,Vendida,138
+1230,7/26/16,Terreno,Alquiler,Monterrey,245,1311730 ,1/6/18,Pedro,Vendida,529
+1231,7/27/16,Oficina,Alquiler,Ciudad de México,114,764370 ,2/24/18,Carmen,Vendida,577
+1233,7/28/16,Local,Alquiler,Cancún,115,756355 ,2/16/18,Pedro,Vendida,568
+1234,7/28/16,Departamento,Alquiler,Tijuana,165,687720 ,2/20/18,Carmen,Vendida,572
+1236,7/30/17,Casa,Alquiler,Tijuana,260," $1,301,560 ",12/29/17,Carmen,Vendida,152
+1237,7/31/16,Departamento,Alquiler,Tijuana,211,1951328 ,1/3/18,Luisa,Vendida,521
+1238,7/31/17,Estacionamiento,Alquiler,Ciudad de México,106," $437,674 ",12/8/17,Luisa,Vendida,130
+1240,8/1/17,Local,Alquiler,Ciudad de México,95," $563,255 ",11/8/17,Jesús,Vendida,99
+1242,8/2/16,Terreno,Alquiler,Cancún,71,692037 ,6/2/18,Joaquín,Vendida,669
+1244,8/3/16,Industrial,Alquiler,Monterrey,84,690396 ,2/8/18,Carmen,Vendida,554
+1245,8/3/16,Terreno,Alquiler,Cancún,152,960032 ,4/11/18,Luisa,Vendida,616
+1247,8/3/16,Oficina,Alquiler,Ciudad de México,126,757260 ,7/23/18,Pedro,Vendida,719
+1248,8/3/16,Departamento,Alquiler,Ciudad de México,86,685592 ,4/29/18,Pedro,Vendida,634
+1249,8/4/17,Local,Alquiler,Cancún,135," $990,360 ",12/3/17,Joaquín,Vendida,121
+1250,8/4/16,Casa,Alquiler,Monterrey,222,1477410 ,5/6/18,María,Vendida,640
+1251,8/4/16,Estacionamiento,Alquiler,Monterrey,56,375592 ,2/20/18,Jesús,Vendida,565
+1254,8/4/16,Industrial,Alquiler,Tijuana,47,286747 ,6/10/18,Joaquín,Vendida,675
+1255,8/4/16,Oficina,Alquiler,Cancún,59,281548 ,7/22/18,Jesús,Vendida,717
+1256,8/5/16,Oficina,Alquiler,Ciudad de México,73,328646 ,2/1/18,Carmen,Vendida,545
+1260,8/6/16,Estacionamiento,Alquiler,Ciudad de México,99,942579 ,3/3/18,María,Vendida,574
+1261,8/6/16,Terreno,Alquiler,Cancún,69,349623 ,5/6/18,Joaquín,Vendida,638
+1262,8/7/17,Local,Alquiler,Tijuana,300," $1,900,200 ",12/9/17,Pedro,Vendida,124
+1263,8/7/16,Oficina,Alquiler,Cancún,48,404352 ,2/25/18,Joaquín,Vendida,567
+1266,8/8/16,Departamento,Alquiler,Tijuana,250,1669250 ,1/4/18,María,Vendida,514
+1271,8/9/16,Estacionamiento,Alquiler,Cancún,162,1297134 ,2/14/18,María,Vendida,554
+1272,8/9/16,Oficina,Alquiler,Ciudad de México,93,552513 ,1/29/18,Pedro,Vendida,538
+1274,8/10/17,Departamento,Alquiler,Cancún,130," $1,246,050 ",11/27/17,Luisa,Vendida,109
+1276,8/10/16,Casa,Alquiler,Monterrey,133,958132 ,6/4/18,Pedro,Vendida,663
+1281,8/14/17,Casa,Alquiler,Cancún,57," $293,037 ",11/27/17,Carmen,Vendida,105
+1283,8/15/16,Casa,Alquiler,Monterrey,63,601398 ,3/1/18,Carmen,Vendida,563
+1284,8/15/16,Departamento,Alquiler,Ciudad de México,159,761928 ,2/5/18,Carmen,Vendida,539
+1285,8/15/17,Oficina,Alquiler,Ciudad de México,137," $804,327 ",12/17/17,Joaquín,Vendida,124
+1286,8/15/16,Local,Alquiler,Tijuana,82,375232 ,5/22/18,Jesús,Vendida,645
+1287,8/15/16,Oficina,Alquiler,Ciudad de México,79,411669 ,8/4/18,Pedro,Vendida,719
+1288,8/16/16,Casa,Alquiler,Tijuana,89,358670 ,2/19/18,Luisa,Vendida,552
+1289,8/16/16,Estacionamiento,Alquiler,Tijuana,232,1643256 ,2/22/18,María,Vendida,555
+1290,8/16/16,Terreno,Alquiler,Tijuana,221,1069640 ,6/1/18,Joaquín,Vendida,654
+1291,8/16/17,Terreno,Alquiler,Ciudad de México,212," $1,926,868 ",11/24/17,Carmen,Vendida,100
+1294,8/18/16,Estacionamiento,Alquiler,Tijuana,224,986048 ,2/10/18,María,Vendida,541
+1296,8/19/16,Industrial,Alquiler,Ciudad de México,238,2275994 ,6/15/18,Joaquín,Vendida,665
+1297,8/19/16,Oficina,Alquiler,Ciudad de México,69,442635 ,6/15/18,María,Vendida,665
+1299,8/22/17,Oficina,Alquiler,Ciudad de México,103," $872,204 ",11/26/17,María,Vendida,96
+1300,8/23/16,Oficina,Alquiler,Monterrey,203,1933372 ,1/31/18,Jesús,Vendida,526
+1306,8/26/16,Departamento,Alquiler,Cancún,216,2045304 ,4/9/18,Jesús,Vendida,591
+1311,8/27/16,Departamento,Alquiler,Ciudad de México,70,615440 ,4/1/18,Jesús,Vendida,582
+1313,8/28/16,Casa,Alquiler,Monterrey,265,1441070 ,8/4/18,Jesús,Vendida,706
+1315,8/28/16,Industrial,Alquiler,Monterrey,224,1932448 ,2/3/18,Carmen,Vendida,524
+1316,8/28/16,Departamento,Alquiler,Tijuana,254,1191260 ,7/27/18,Pedro,Vendida,698
+1318,8/29/16,Estacionamiento,Alquiler,Monterrey,82,700854 ,4/22/18,María,Vendida,601
+1319,8/29/16,Departamento,Alquiler,Ciudad de México,252,1923516 ,5/23/18,Pedro,Vendida,632
+1320,8/29/16,Departamento,Alquiler,Monterrey,108,581580 ,8/4/18,Carmen,Vendida,705
+1326,8/31/16,Casa,Alquiler,Monterrey,248,1234048 ,2/28/18,Jesús,Vendida,546
+1329,9/2/16,Industrial,Alquiler,Tijuana,213,1333593 ,4/6/18,Jesús,Vendida,581
+1330,9/3/16,Industrial,Alquiler,Tijuana,202,1558430 ,1/26/18,Jesús,Vendida,510
+1333,9/4/16,Industrial,Alquiler,Ciudad de México,198,840312 ,5/27/18,Pedro,Vendida,630
+1336,9/6/17,Local,Alquiler,Cancún,170," $1,429,020 ",12/14/17,Pedro,Vendida,99
+1337,9/6/16,Industrial,Alquiler,Cancún,261,2026404 ,2/5/18,Carmen,Vendida,517
+1338,9/7/16,Departamento,Alquiler,Cancún,99,938916 ,9/4/18,Pedro,Vendida,727
+1339,9/7/16,Casa,Alquiler,Cancún,205,1762180 ,5/14/18,Jesús,Vendida,614
+1340,9/7/16,Estacionamiento,Alquiler,Tijuana,173,842683 ,1/30/18,Joaquín,Vendida,510
+1343,9/8/16,Estacionamiento,Alquiler,Ciudad de México,115,907580 ,7/11/18,Carmen,Vendida,671
+1346,9/9/16,Industrial,Alquiler,Cancún,100,526800 ,4/29/18,Joaquín,Vendida,597
+1348,9/9/16,Estacionamiento,Alquiler,Cancún,153,824517 ,5/31/18,María,Vendida,629
+1352,9/10/16,Oficina,Alquiler,Ciudad de México,173,994750 ,9/2/18,Joaquín,Vendida,722
+1353,9/10/16,Departamento,Alquiler,Cancún,250,2478000 ,4/27/18,Carmen,Vendida,594
+1354,9/10/16,Oficina,Alquiler,Ciudad de México,142,1201462 ,8/6/18,Jesús,Vendida,695
+1356,9/11/16,Local,Alquiler,Tijuana,145,943805 ,5/17/18,Luisa,Vendida,613
+1357,9/11/17,Oficina,Alquiler,Ciudad de México,194," $1,931,658 ",12/14/17,Jesús,Vendida,94
+1359,9/11/16,Departamento,Alquiler,Cancún,240,1602720 ,6/3/18,Joaquín,Vendida,630
+1365,9/13/16,Oficina,Alquiler,Tijuana,223,974956 ,7/23/18,Luisa,Vendida,678
+1366,9/14/16,Estacionamiento,Alquiler,Monterrey,258,1430352 ,1/14/18,María,Vendida,487
+1367,9/14/16,Industrial,Alquiler,Cancún,176,1043856 ,5/25/18,Jesús,Vendida,618
+1369,9/14/16,Casa,Alquiler,Cancún,153,948600 ,3/30/18,Jesús,Vendida,562
+1370,9/16/16,Local,Alquiler,Monterrey,91,838292 ,4/16/18,Pedro,Vendida,577
+1377,9/19/16,Estacionamiento,Alquiler,Tijuana,193,1540140 ,8/8/18,Jesús,Vendida,688
+1378,9/20/16,Departamento,Alquiler,Monterrey,240,2183760 ,1/27/18,Jesús,Vendida,494
+1379,9/21/16,Departamento,Alquiler,Tijuana,111,656676 ,2/5/18,Joaquín,Vendida,502
+1380,9/21/16,Departamento,Alquiler,Cancún,123,873546 ,2/2/18,Joaquín,Vendida,499
+1382,9/21/16,Estacionamiento,Alquiler,Monterrey,258,1758786 ,2/24/18,Jesús,Vendida,521
+1384,9/21/16,Casa,Alquiler,Cancún,185,1129980 ,4/10/18,Pedro,Vendida,566
+1387,9/24/16,Oficina,Alquiler,Ciudad de México,85,613275 ,2/12/18,Pedro,Vendida,506
+1388,9/24/16,Terreno,Alquiler,Cancún,204,878424 ,7/23/18,Carmen,Vendida,667
+1389,9/24/16,Estacionamiento,Alquiler,Ciudad de México,47,403401 ,1/24/18,María,Vendida,487
+1391,9/25/16,Local,Alquiler,Tijuana,98,683844 ,1/21/18,Joaquín,Vendida,483
+1394,9/27/16,Local,Alquiler,Monterrey,78,678132 ,4/23/18,María,Vendida,573
+1395,9/27/16,Departamento,Alquiler,Tijuana,187,911064 ,2/24/18,María,Vendida,515
+1396,9/29/16,Industrial,Alquiler,Tijuana,121,490897 ,9/27/18,María,Vendida,728
+1399,9/30/16,Terreno,Alquiler,Tijuana,79,409378 ,8/15/18,Luisa,Vendida,684
+1402,10/1/16,Local,Alquiler,Cancún,285,1779825 ,2/28/18,María,Vendida,515
+1403,10/1/16,Industrial,Alquiler,Ciudad de México,148,644688 ,5/22/18,Jesús,Vendida,598
+1409,10/2/16,Local,Alquiler,Tijuana,204,1929228 ,5/14/18,Pedro,Vendida,589
+1410,10/2/16,Terreno,Alquiler,Tijuana,68,613496 ,1/18/18,Jesús,Vendida,473
+1413,10/2/16,Casa,Alquiler,Tijuana,258,1146552 ,7/26/18,Luisa,Vendida,662
+1415,10/3/16,Estacionamiento,Alquiler,Monterrey,85,809115 ,5/25/18,María,Vendida,599
+1420,10/4/16,Oficina,Alquiler,Monterrey,85,749275 ,1/5/18,María,Vendida,458
+1422,10/4/16,Oficina,Alquiler,Monterrey,228,1747392 ,5/24/18,Carmen,Vendida,597
+1424,10/5/16,Casa,Alquiler,Tijuana,274,1753052 ,2/28/18,Joaquín,Vendida,511
+1425,10/5/16,Local,Alquiler,Monterrey,118,970314 ,2/15/18,Luisa,Vendida,498
+1427,10/6/16,Casa,Alquiler,Monterrey,208,1811680 ,5/31/18,Jesús,Vendida,602
+1428,10/6/16,Terreno,Alquiler,Ciudad de México,132,882420 ,10/6/18,Carmen,Vendida,730
+1429,10/6/16,Local,Alquiler,Tijuana,211,1522998 ,6/2/18,Luisa,Vendida,604
+1430,10/6/16,Oficina,Alquiler,Ciudad de México,289,2249576 ,6/18/18,Carmen,Vendida,620
+1438,10/9/16,Local,Alquiler,Monterrey,211,1244056 ,9/1/18,María,Vendida,692
+1440,10/11/16,Local,Alquiler,Monterrey,151,1382707 ,5/7/18,María,Vendida,573
+1444,10/12/16,Local,Alquiler,Monterrey,246,2010312 ,2/21/18,María,Vendida,497
+1445,10/12/16,Local,Alquiler,Tijuana,56,346192 ,4/18/18,María,Vendida,553
+1446,10/12/16,Local,Alquiler,Monterrey,72,686232 ,9/12/18,Luisa,Vendida,700
+1452,10/14/16,Casa,Alquiler,Monterrey,207,1556226 ,6/21/18,Carmen,Vendida,615
+1454,10/15/16,Estacionamiento,Alquiler,Tijuana,271,2334123 ,8/2/18,Joaquín,Vendida,656
+1455,10/15/16,Local,Alquiler,Ciudad de México,257,2136184 ,4/18/18,Jesús,Vendida,550
+1460,10/17/16,Industrial,Alquiler,Ciudad de México,159,724563 ,8/27/18,Jesús,Vendida,679
+1463,10/18/16,Departamento,Alquiler,Ciudad de México,211,1284568 ,8/26/18,Carmen,Vendida,677
+1464,10/18/16,Departamento,Alquiler,Ciudad de México,71,388583 ,1/18/18,Jesús,Vendida,457
+1465,10/18/16,Casa,Alquiler,Monterrey,157,1182053 ,4/9/18,Joaquín,Vendida,538
+1467,10/20/16,Estacionamiento,Alquiler,Tijuana,133,745864 ,6/1/18,María,Vendida,589
+1468,10/20/16,Estacionamiento,Alquiler,Ciudad de México,46,237176 ,8/8/18,María,Vendida,657
+1469,10/20/16,Terreno,Alquiler,Cancún,214,1642664 ,8/29/18,Luisa,Vendida,678
+1470,10/21/16,Casa,Alquiler,Monterrey,258,2475510 ,6/28/18,Jesús,Vendida,615
+1471,10/22/16,Terreno,Alquiler,Tijuana,276,1544496 ,5/12/18,Carmen,Vendida,567
+1472,10/22/16,Local,Alquiler,Cancún,49,452417 ,6/19/18,Luisa,Vendida,605
+1474,10/22/16,Industrial,Alquiler,Cancún,98,955500 ,7/10/18,Luisa,Vendida,626
+1475,10/23/16,Estacionamiento,Alquiler,Cancún,107,658157 ,3/16/18,Pedro,Vendida,509
+1476,10/25/16,Terreno,Alquiler,Cancún,158,938836 ,9/5/18,Jesús,Vendida,680
+1477,10/26/16,Local,Alquiler,Ciudad de México,205,1597360 ,10/15/18,Carmen,Vendida,719
+1478,10/27/16,Oficina,Alquiler,Cancún,182,1499134 ,9/7/18,Joaquín,Vendida,680
+1481,10/28/16,Estacionamiento,Alquiler,Tijuana,218,991900 ,5/28/18,Jesús,Vendida,577
+1483,10/28/16,Departamento,Alquiler,Monterrey,164,1421060 ,10/28/18,Luisa,Vendida,730
+1484,10/28/16,Industrial,Alquiler,Tijuana,224,1422624 ,3/12/18,Luisa,Vendida,500
+1489,10/30/16,Estacionamiento,Alquiler,Ciudad de México,103,536733 ,10/28/18,María,Vendida,728
+1490,10/31/16,Casa,Alquiler,Monterrey,216,1883088 ,10/18/18,Pedro,Vendida,717
+1491,11/1/16,Oficina,Alquiler,Monterrey,213,2083779 ,4/23/18,María,Vendida,538
+1495,11/2/16,Oficina,Alquiler,Monterrey,67,304113 ,6/29/18,Joaquín,Vendida,604
+1503,11/5/16,Industrial,Alquiler,Monterrey,233,1644747 ,5/5/18,Carmen,Vendida,546
+1504,11/5/16,Estacionamiento,Alquiler,Cancún,122,1162172 ,2/26/18,Luisa,Vendida,478
+1507,11/8/16,Local,Alquiler,Ciudad de México,191,1370998 ,9/7/18,Joaquín,Vendida,668
+1511,11/8/16,Oficina,Alquiler,Monterrey,153,912798 ,5/31/18,Jesús,Vendida,569
+1512,11/9/16,Departamento,Alquiler,Cancún,157,1174203 ,4/9/18,Pedro,Vendida,516
+1513,11/9/16,Terreno,Alquiler,Ciudad de México,186,1713990 ,8/28/18,María,Vendida,657
+1514,11/9/16,Estacionamiento,Alquiler,Monterrey,156,1508988 ,9/18/18,Jesús,Vendida,678
+1515,11/10/16,Local,Alquiler,Tijuana,246,2216214 ,4/17/18,María,Vendida,523
+1517,11/12/16,Oficina,Alquiler,Monterrey,273,2333058 ,3/5/18,Joaquín,Vendida,478
+1520,11/13/16,Departamento,Alquiler,Ciudad de México,74,341584 ,4/16/18,Luisa,Vendida,519
+1522,11/13/16,Local,Alquiler,Tijuana,89,499735 ,8/19/18,María,Vendida,644
+1524,11/13/16,Oficina,Alquiler,Tijuana,70,526680 ,2/17/18,Joaquín,Vendida,461
+1528,11/15/16,Oficina,Alquiler,Tijuana,62,421290 ,5/21/18,Joaquín,Vendida,552
+1529,11/16/16,Terreno,Alquiler,Ciudad de México,163,1179957 ,6/6/18,María,Vendida,567
+1530,11/16/16,Industrial,Alquiler,Tijuana,114,878940 ,10/18/18,Luisa,Vendida,701
+1532,11/17/16,Departamento,Alquiler,Cancún,161,917378 ,5/4/18,Carmen,Vendida,533
+1533,11/17/16,Casa,Alquiler,Ciudad de México,65,431275 ,8/16/18,Luisa,Vendida,637
+1536,11/19/16,Local,Alquiler,Ciudad de México,87,756900 ,5/26/18,Carmen,Vendida,553
+1537,11/20/16,Local,Alquiler,Cancún,90,416430 ,11/1/18,Jesús,Vendida,711
+1540,11/21/16,Estacionamiento,Alquiler,Cancún,119,508606 ,8/17/18,Carmen,Vendida,634
+1541,11/21/16,Terreno,Alquiler,Cancún,185,1179190 ,3/14/18,Luisa,Vendida,478
+1542,11/21/16,Casa,Alquiler,Tijuana,113,1059827 ,10/21/18,Joaquín,Vendida,699
+1544,11/22/16,Industrial,Alquiler,Cancún,287,1926344 ,6/18/18,María,Vendida,573
+1545,11/22/16,Local,Alquiler,Ciudad de México,161,914641 ,4/11/18,Joaquín,Vendida,505
+1546,11/22/16,Industrial,Alquiler,Ciudad de México,177,1736901 ,10/24/18,María,Vendida,701
+1550,11/23/16,Oficina,Alquiler,Cancún,44,363968 ,9/2/18,Carmen,Vendida,648
+1554,11/24/16,Terreno,Alquiler,Cancún,287,1276289 ,4/19/18,María,Vendida,511
+1555,11/25/16,Estacionamiento,Alquiler,Cancún,295,2613405 ,11/23/18,Carmen,Vendida,728
+1556,11/25/16,Industrial,Alquiler,Tijuana,276,1817736 ,9/14/18,Joaquín,Vendida,658
+1557,11/25/16,Terreno,Alquiler,Monterrey,103,557127 ,5/8/18,Carmen,Vendida,529
+1558,11/26/16,Estacionamiento,Alquiler,Monterrey,46,187680 ,11/13/18,Luisa,Vendida,717
+1559,11/26/16,Departamento,Alquiler,Cancún,179,1674903 ,4/30/18,Jesús,Vendida,520
+1560,11/26/16,Departamento,Alquiler,Monterrey,96,854496 ,3/28/18,Pedro,Vendida,487
+1561,11/26/16,Industrial,Alquiler,Cancún,276,1539252 ,9/20/18,Pedro,Vendida,663
+1562,11/27/16,Casa,Alquiler,Cancún,288,1228320 ,9/23/18,Jesús,Vendida,665
+1564,11/27/16,Industrial,Alquiler,Tijuana,180,1688040 ,7/7/18,Luisa,Vendida,587
+1565,11/28/16,Industrial,Alquiler,Cancún,105,1021230 ,9/17/18,Carmen,Vendida,658
+1566,11/28/16,Industrial,Alquiler,Cancún,80,405280 ,3/29/18,Carmen,Vendida,486
+1570,11/29/16,Industrial,Alquiler,Monterrey,137,693631 ,7/21/18,Carmen,Vendida,599
+1573,11/30/16,Oficina,Alquiler,Monterrey,113,747947 ,6/9/18,Pedro,Vendida,556
+1575,12/1/16,Local,Alquiler,Monterrey,210,1527120 ,6/17/18,Jesús,Vendida,563
+1577,12/3/16,Departamento,Alquiler,Tijuana,264,2147112 ,5/10/18,Joaquín,Vendida,523
+1578,12/3/16,Departamento,Alquiler,Ciudad de México,176,1189936 ,8/12/18,Carmen,Vendida,617
+1579,12/4/16,Casa,Alquiler,Tijuana,176,1685904 ,7/29/18,Pedro,Vendida,602
+1582,12/5/16,Industrial,Alquiler,Monterrey,162,753786 ,9/26/18,Jesús,Vendida,660
+1583,12/6/16,Casa,Alquiler,Ciudad de México,162,1341684 ,11/9/18,María,Vendida,703
+1584,12/6/16,Estacionamiento,Alquiler,Monterrey,250,2103000 ,9/13/18,Jesús,Vendida,646
+1588,12/8/16,Oficina,Alquiler,Tijuana,293,2868470 ,3/18/18,Luisa,Vendida,465
+1589,12/9/16,Estacionamiento,Alquiler,Ciudad de México,296,1536832 ,8/22/18,Joaquín,Vendida,621
+1594,12/12/16,Oficina,Alquiler,Cancún,117,536679 ,7/19/18,Joaquín,Vendida,584
+1596,12/13/16,Estacionamiento,Alquiler,Ciudad de México,57,293949 ,11/6/18,Pedro,Vendida,693
+1602,12/16/16,Oficina,Alquiler,Monterrey,135,857925 ,6/25/18,Joaquín,Vendida,556
+1603,12/17/16,Casa,Alquiler,Cancún,154,814968 ,11/26/18,María,Vendida,709
+1605,12/17/16,Estacionamiento,Alquiler,Monterrey,57,387828 ,3/25/18,Luisa,Vendida,463
+1606,12/17/16,Terreno,Alquiler,Tijuana,147,907137 ,6/19/18,Jesús,Vendida,549
+1608,12/18/16,Local,Alquiler,Cancún,207,1395387 ,5/18/18,Luisa,Vendida,516
+1610,12/20/16,Industrial,Alquiler,Tijuana,238,2136288 ,9/1/18,María,Vendida,620
+1612,12/20/16,Local,Alquiler,Monterrey,49,425565 ,5/6/18,Joaquín,Vendida,502
+1614,12/21/16,Terreno,Alquiler,Tijuana,243,2390634 ,6/26/18,Luisa,Vendida,552
+1617,12/21/16,Oficina,Alquiler,Tijuana,190,940500 ,12/11/18,Joaquín,Vendida,720
+1618,12/21/16,Estacionamiento,Alquiler,Monterrey,139,875978 ,5/4/18,Jesús,Vendida,499
+1619,12/22/16,Industrial,Alquiler,Monterrey,210,1770930 ,4/20/18,María,Vendida,484
+1621,12/22/16,Terreno,Alquiler,Cancún,203,2021880 ,4/29/18,Joaquín,Vendida,493
+1626,12/23/16,Local,Alquiler,Tijuana,267,2263626 ,7/4/18,Pedro,Vendida,558
+1634,12/26/16,Departamento,Alquiler,Cancún,300,1432500 ,6/21/18,María,Vendida,542
+1635,12/26/16,Oficina,Alquiler,Tijuana,56,296856 ,6/6/18,María,Vendida,527
+1636,12/26/16,Industrial,Alquiler,Ciudad de México,142,629628 ,4/20/18,Luisa,Vendida,480
+1638,12/27/16,Oficina,Alquiler,Tijuana,54,402462 ,10/6/18,Pedro,Vendida,648
+1639,12/27/16,Casa,Alquiler,Tijuana,221,1401361 ,3/30/18,Jesús,Vendida,458
+1640,12/27/16,Estacionamiento,Alquiler,Cancún,137,927627 ,12/5/18,Pedro,Vendida,708
+1644,12/30/16,Casa,Alquiler,Ciudad de México,137,740211 ,12/12/18,Pedro,Vendida,712
+1645,12/30/16,Oficina,Alquiler,Monterrey,227,2029607 ,10/20/18,Carmen,Vendida,659
+1647,12/31/16,Casa,Alquiler,Monterrey,284,2815292 ,12/7/18,Jesús,Vendida,706
+1648,12/31/16,Estacionamiento,Alquiler,Tijuana,202,1329968 ,10/22/18,María,Vendida,660
+1650,1/1/17,Estacionamiento,Alquiler,Cancún,204,1347420 ,7/13/18,Jesús,Vendida,558
+1651,1/1/17,Departamento,Alquiler,Ciudad de México,80,322960 ,12/28/18,Pedro,Vendida,726
+1652,1/1/17,Oficina,Alquiler,Ciudad de México,150,873000 ,12/17/18,Jesús,Vendida,715
+1655,1/2/17,Casa,Alquiler,Monterrey,271,2471249 ,4/4/18,Joaquín,Vendida,457
+1656,1/2/17,Local,Alquiler,Ciudad de México,277,1499678 ,11/3/18,Luisa,Vendida,670
+1657,1/3/17,Oficina,Alquiler,Tijuana,216,1109808 ,6/24/18,Joaquín,Vendida,537
+1660,1/3/17,Local,Alquiler,Tijuana,179,1176209 ,6/29/18,Carmen,Vendida,542
+1661,1/3/17,Casa,Alquiler,Tijuana,229,2219468 ,7/12/18,Luisa,Vendida,555
+1664,1/3/17,Casa,Alquiler,Monterrey,155,1247750 ,9/11/18,María,Vendida,616
+1665,1/5/17,Casa,Alquiler,Monterrey,163,761047 ,10/16/18,Luisa,Vendida,649
+1669,1/6/17,Local,Alquiler,Tijuana,283,2107784 ,4/19/18,María,Vendida,468
+1671,1/7/17,Oficina,Alquiler,Ciudad de México,207,2014110 ,11/1/18,Joaquín,Vendida,663
+1674,1/8/17,Casa,Alquiler,Monterrey,280,2346400 ,5/7/18,María,Vendida,484
+1675,1/8/17,Terreno,Alquiler,Ciudad de México,107,567742 ,9/19/18,Jesús,Vendida,619
+1676,1/9/17,Departamento,Alquiler,Cancún,194,1792560 ,5/5/18,Joaquín,Vendida,481
+1677,1/9/17,Industrial,Alquiler,Monterrey,256,2331648 ,11/26/18,Luisa,Vendida,686
+1678,1/9/17,Departamento,Alquiler,Tijuana,249,2053005 ,7/24/18,Luisa,Vendida,561
+1681,1/10/17,Casa,Alquiler,Tijuana,180,1741320 ,6/8/18,María,Vendida,514
+1683,1/11/17,Industrial,Alquiler,Monterrey,68,386036 ,10/14/18,Jesús,Vendida,641
+1686,1/11/17,Industrial,Alquiler,Tijuana,271,1196465 ,8/5/18,Jesús,Vendida,571
+1687,1/12/18,Departamento,Alquiler,Monterrey,289,2462280 ,1/5/19,Jesús,Vendida,358
+1688,1/12/17,Industrial,Alquiler,Tijuana,54,419256 ,11/30/18,María,Vendida,687
+1689,1/13/17,Industrial,Alquiler,Cancún,122,1184376 ,10/3/18,Luisa,Vendida,628
+1690,1/13/17,Oficina,Alquiler,Tijuana,98,738430 ,12/28/18,Luisa,Vendida,714
+1693,1/13/17,Local,Alquiler,Ciudad de México,54,466722 ,5/21/18,Jesús,Vendida,493
+1695,1/14/17,Industrial,Alquiler,Tijuana,144,1331856 ,12/19/18,Luisa,Vendida,704
+1697,1/14/17,Local,Alquiler,Monterrey,165,1461570 ,10/17/18,Carmen,Vendida,641
+1698,1/14/17,Oficina,Alquiler,Ciudad de México,129,562827 ,11/16/18,Joaquín,Vendida,671
+1699,1/14/17,Local,Alquiler,Ciudad de México,255,2494410 ,11/22/18,Luisa,Vendida,677
+1700,1/15/17,Oficina,Alquiler,Tijuana,199,1685132 ,11/7/18,Joaquín,Vendida,661
+1702,1/15/17,Oficina,Alquiler,Ciudad de México,272,2487712 ,4/25/18,Carmen,Vendida,465
+1708,1/17/17,Industrial,Alquiler,Ciudad de México,246,2398008 ,5/22/18,Jesús,Vendida,490
+1709,1/17/17,Oficina,Alquiler,Tijuana,123,609342 ,5/10/18,Carmen,Vendida,478
+1710,1/17/17,Industrial,Alquiler,Tijuana,221,1411969 ,7/26/18,Pedro,Vendida,555
+1713,1/19/17,Departamento,Alquiler,Cancún,114,938562 ,6/16/18,María,Vendida,513
+1715,1/19/17,Estacionamiento,Alquiler,Monterrey,188,1422220 ,7/20/18,María,Vendida,547
+1717,1/20/17,Local,Alquiler,Monterrey,256,1428480 ,6/26/18,Pedro,Vendida,522
+1718,1/20/17,Estacionamiento,Alquiler,Tijuana,265,2119735 ,10/15/18,Pedro,Vendida,633
+1720,1/21/17,Terreno,Alquiler,Cancún,41,255061 ,12/15/18,Pedro,Vendida,693
+1721,1/21/17,Terreno,Alquiler,Ciudad de México,178,1104846 ,6/8/18,Jesús,Vendida,503
+1724,1/23/17,Industrial,Alquiler,Cancún,293,1182841 ,6/15/18,María,Vendida,508
+1725,1/23/17,Casa,Alquiler,Monterrey,154,1427118 ,10/3/18,Pedro,Vendida,618
+1727,1/23/17,Local,Alquiler,Ciudad de México,137,831316 ,11/11/18,Jesús,Vendida,657
+1728,1/23/18,Local,Alquiler,Cancún,190,1469460 ,1/10/19,Carmen,Vendida,352
+1729,1/24/17,Oficina,Alquiler,Monterrey,123,1133199 ,9/23/18,Luisa,Vendida,607
+1734,1/25/17,Casa,Alquiler,Cancún,229,1447509 ,4/29/18,Joaquín,Vendida,459
+1736,1/25/17,Oficina,Alquiler,Ciudad de México,237,1438827 ,5/12/18,Pedro,Vendida,472
+1737,1/25/17,Estacionamiento,Alquiler,Cancún,212,1440540 ,10/10/18,Jesús,Vendida,623
+1741,1/26/17,Terreno,Alquiler,Tijuana,273,1528254 ,6/15/18,Pedro,Vendida,505
+1745,1/27/17,Oficina,Alquiler,Ciudad de México,136,656744 ,5/15/18,Luisa,Vendida,473
+1746,1/28/17,Casa,Alquiler,Cancún,254,1713992 ,7/8/18,Pedro,Vendida,526
+1747,1/28/17,Estacionamiento,Alquiler,Cancún,294,1355046 ,10/2/18,Jesús,Vendida,612
+1748,1/29/18,Terreno,Alquiler,Ciudad de México,95,748790 ,1/8/19,Luisa,Vendida,344
+1750,1/29/17,Terreno,Alquiler,Monterrey,98,509600 ,11/10/18,Pedro,Vendida,650
+1751,1/30/17,Oficina,Alquiler,Monterrey,75,378900 ,12/16/18,Carmen,Vendida,685
+1752,1/30/17,Industrial,Alquiler,Cancún,169,810186 ,12/5/18,Joaquín,Vendida,674
+1753,1/30/17,Oficina,Alquiler,Monterrey,123,757434 ,8/23/18,Pedro,Vendida,570
+1760,2/2/17,Casa,Alquiler,Tijuana,234,1286766 ,10/12/18,Luisa,Vendida,617
+1762,2/2/17,Oficina,Alquiler,Cancún,288,1820448 ,11/13/18,Joaquín,Vendida,649
+1763,2/3/17,Terreno,Alquiler,Cancún,210,1482810 ,11/23/18,Carmen,Vendida,658
+1766,2/4/17,Industrial,Alquiler,Cancún,283,1709037 ,7/14/18,Carmen,Vendida,525
+1770,2/5/17,Industrial,Alquiler,Ciudad de México,129,1140876 ,7/2/18,Pedro,Vendida,512
+1771,2/5/17,Departamento,Alquiler,Ciudad de México,194,1315126 ,9/11/18,Luisa,Vendida,583
+1772,2/6/17,Industrial,Alquiler,Ciudad de México,65,272545 ,6/23/18,Carmen,Vendida,502
+1773,2/6/18,Terreno,Alquiler,Cancún,88,808192 ,1/17/19,Carmen,Vendida,345
+1774,2/6/18,Estacionamiento,Alquiler,Cancún,124,536672 ,1/30/19,María,Vendida,358
+1775,2/7/17,Departamento,Alquiler,Cancún,218,1677728 ,5/19/18,Pedro,Vendida,466
+1779,2/7/17,Oficina,Alquiler,Cancún,206,1747292 ,6/11/18,Carmen,Vendida,489
+1780,2/8/17,Oficina,Alquiler,Tijuana,142,693244 ,9/19/18,Jesús,Vendida,588
+1781,2/8/17,Industrial,Alquiler,Tijuana,211,1155436 ,12/27/18,Pedro,Vendida,687
+1786,2/9/17,Industrial,Alquiler,Monterrey,252,1949220 ,10/20/18,Carmen,Vendida,618
+1787,2/9/17,Industrial,Alquiler,Cancún,259,1627556 ,5/30/18,María,Vendida,475
+1791,2/12/17,Departamento,Alquiler,Cancún,118,734786 ,7/19/18,Joaquín,Vendida,522
+1793,2/12/17,Departamento,Alquiler,Tijuana,184,864248 ,7/18/18,María,Vendida,521
+1794,2/12/17,Departamento,Alquiler,Ciudad de México,141,1401822 ,5/29/18,María,Vendida,471
+1797,2/14/18,Estacionamiento,Alquiler,Monterrey,131,1163542 ,1/18/19,Luisa,Vendida,338
+1799,2/15/17,Departamento,Alquiler,Cancún,84,481992 ,7/28/18,Jesús,Vendida,528
+1801,2/15/17,Estacionamiento,Alquiler,Cancún,132,973764 ,5/19/18,Joaquín,Vendida,458
+1802,2/16/18,Industrial,Alquiler,Tijuana,114,636918 ,1/10/19,Luisa,Vendida,328
+1803,2/16/17,Industrial,Alquiler,Ciudad de México,201,1733022 ,9/8/18,Pedro,Vendida,569
+1806,2/16/17,Casa,Alquiler,Ciudad de México,117,561132 ,10/8/18,Luisa,Vendida,599
+1807,2/16/17,Terreno,Alquiler,Cancún,276,1302720 ,11/9/18,María,Vendida,631
+1808,2/17/17,Terreno,Alquiler,Tijuana,78,366132 ,11/20/18,Jesús,Vendida,641
+1811,2/17/17,Departamento,Alquiler,Cancún,101,673670 ,7/5/18,Pedro,Vendida,503
+1815,2/18/17,Terreno,Alquiler,Cancún,107,839522 ,8/11/18,Luisa,Vendida,539
+1816,2/18/17,Local,Alquiler,Monterrey,88,770968 ,10/27/18,Luisa,Vendida,616
+1817,2/20/17,Estacionamiento,Alquiler,Tijuana,228,1815336 ,6/10/18,Jesús,Vendida,475
+1818,2/20/17,Industrial,Alquiler,Cancún,71,342078 ,12/28/18,Pedro,Vendida,676
+1822,2/20/17,Casa,Alquiler,Cancún,88,544896 ,12/8/18,Carmen,Vendida,656
+1824,2/21/17,Estacionamiento,Alquiler,Tijuana,260,2470000 ,5/27/18,Luisa,Vendida,460
+1825,2/21/17,Local,Alquiler,Cancún,154,1109262 ,6/6/18,Carmen,Vendida,470
+1827,2/22/17,Oficina,Alquiler,Tijuana,64,319616 ,7/6/18,Carmen,Vendida,499
+1832,2/24/18,Industrial,Alquiler,Tijuana,257,1598283 ,2/3/19,Luisa,Vendida,344
+1834,2/24/17,Casa,Alquiler,Cancún,78,443976 ,7/17/18,Jesús,Vendida,508
+1835,2/27/17,Industrial,Alquiler,Cancún,81,788697 ,8/18/18,Luisa,Vendida,537
+1841,3/1/17,Local,Alquiler,Ciudad de México,240,1706400 ,8/29/18,Pedro,Vendida,546
+1844,3/2/18,Terreno,Alquiler,Monterrey,97,493924 ,1/21/19,Luisa,Vendida,325
+1846,3/2/17,Terreno,Alquiler,Ciudad de México,141,659316 ,10/14/18,Luisa,Vendida,591
+1847,3/3/18,Casa,Alquiler,Monterrey,125,657500 ,3/2/19,Carmen,Vendida,364
+1849,3/3/17,Casa,Alquiler,Tijuana,243,1918728 ,7/26/18,Luisa,Vendida,510
+1850,3/3/18,Oficina,Alquiler,Ciudad de México,74,697746 ,1/11/19,Carmen,Vendida,314
+1851,3/4/17,Terreno,Alquiler,Ciudad de México,48,348720 ,11/26/18,Luisa,Vendida,632
+1852,3/4/18,Estacionamiento,Alquiler,Monterrey,269,1908286 ,1/29/19,Jesús,Vendida,331
+1854,3/4/17,Departamento,Alquiler,Monterrey,99,927927 ,9/4/18,María,Vendida,549
+1857,3/5/17,Oficina,Alquiler,Monterrey,177,980934 ,9/11/18,Luisa,Vendida,555
+1860,3/6/18,Local,Alquiler,Ciudad de México,126,1177722 ,2/14/19,Pedro,Vendida,345
+1861,3/6/17,Local,Alquiler,Monterrey,143,1205347 ,12/22/18,María,Vendida,656
+1862,3/7/17,Industrial,Alquiler,Monterrey,223,1510825 ,6/19/18,Luisa,Vendida,469
+1864,3/7/17,Terreno,Alquiler,Monterrey,162,1202850 ,11/30/18,Pedro,Vendida,633
+1865,3/8/17,Oficina,Alquiler,Tijuana,177,1191033 ,6/27/18,Carmen,Vendida,476
+1869,3/8/18,Casa,Alquiler,Ciudad de México,217,1659833 ,3/1/19,Luisa,Vendida,358
+1870,3/9/17,Oficina,Alquiler,Cancún,272,1705712 ,6/19/18,Joaquín,Vendida,467
+1872,3/11/17,Terreno,Alquiler,Monterrey,258,1930614 ,7/7/18,Joaquín,Vendida,483
+1874,3/11/17,Departamento,Alquiler,Tijuana,45,446940 ,7/17/18,Pedro,Vendida,493
+1875,3/12/17,Casa,Alquiler,Monterrey,150,1159650 ,9/22/18,Joaquín,Vendida,559
+1876,3/13/18,Estacionamiento,Alquiler,Tijuana,182,1489124 ,2/22/19,Pedro,Vendida,346
+1877,3/13/17,Industrial,Alquiler,Monterrey,240,2175360 ,9/7/18,Luisa,Vendida,543
+1878,3/13/17,Industrial,Alquiler,Cancún,214,1331936 ,12/4/18,Joaquín,Vendida,631
+1881,3/14/17,Industrial,Alquiler,Tijuana,63,343602 ,10/16/18,Carmen,Vendida,581
+1882,3/15/17,Casa,Alquiler,Monterrey,283,1219730 ,7/26/18,Pedro,Vendida,498
+1885,3/16/18,Oficina,Alquiler,Cancún,87,603780 ,3/7/19,Joaquín,Vendida,356
+1886,3/16/17,Oficina,Alquiler,Ciudad de México,178,1171418 ,12/5/18,María,Vendida,629
+1887,3/17/17,Industrial,Alquiler,Tijuana,121,764115 ,11/19/18,Joaquín,Vendida,612
+1888,3/17/18,Departamento,Alquiler,Monterrey,196,1611708 ,1/8/19,Jesús,Vendida,297
+1889,3/18/17,Estacionamiento,Alquiler,Tijuana,60,358620 ,11/26/18,María,Vendida,618
+1890,3/19/18,Oficina,Alquiler,Monterrey,286,1413698 ,3/15/19,Carmen,Vendida,361
+1891,3/19/18,Oficina,Alquiler,Tijuana,83,743265 ,1/3/19,Joaquín,Vendida,290
+1892,3/20/17,Industrial,Alquiler,Ciudad de México,93,435333 ,10/19/18,Jesús,Vendida,578
+1894,3/20/17,Casa,Alquiler,Cancún,220,1550780 ,10/21/18,Carmen,Vendida,580
+1895,3/20/17,Industrial,Alquiler,Ciudad de México,274,1456858 ,7/28/18,Pedro,Vendida,495
+1896,3/21/18,Local,Alquiler,Cancún,149,948832 ,1/14/19,Joaquín,Vendida,299
+1899,3/21/18,Estacionamiento,Alquiler,Monterrey,97,885998 ,1/31/19,Carmen,Vendida,316
+1902,3/23/17,Local,Alquiler,Monterrey,225,1501650 ,6/22/18,Jesús,Vendida,456
+1903,3/24/17,Local,Alquiler,Cancún,191,926350 ,9/22/18,Carmen,Vendida,547
+1904,3/25/17,Departamento,Alquiler,Cancún,150,1396200 ,7/31/18,Pedro,Vendida,493
+1905,3/26/18,Estacionamiento,Alquiler,Ciudad de México,114,978120 ,1/19/19,María,Vendida,299
+1907,3/26/18,Casa,Alquiler,Tijuana,235,2145315 ,2/9/19,Joaquín,Vendida,320
+1909,3/26/18,Oficina,Alquiler,Cancún,294,2427558 ,1/30/19,Pedro,Vendida,310
+1911,3/28/18,Estacionamiento,Alquiler,Cancún,290,1442460 ,1/28/19,Carmen,Vendida,306
+1912,3/28/18,Terreno,Alquiler,Tijuana,254,1558036 ,3/15/19,María,Vendida,352
+1914,3/29/17,Oficina,Alquiler,Monterrey,42,238014 ,9/4/18,Pedro,Vendida,524
+1915,3/29/17,Local,Alquiler,Monterrey,70,433370 ,9/20/18,María,Vendida,540
+1927,4/1/17,Casa,Alquiler,Cancún,118,746940 ,11/25/18,Jesús,Vendida,603
+1928,4/1/17,Casa,Alquiler,Ciudad de México,164,771292 ,9/22/18,Joaquín,Vendida,539
+1930,4/2/17,Industrial,Alquiler,Monterrey,41,403727 ,12/26/18,Jesús,Vendida,633
+1932,4/2/17,Casa,Alquiler,Cancún,190,1760920 ,10/22/18,Jesús,Vendida,568
+1933,4/3/17,Terreno,Alquiler,Cancún,123,978588 ,8/9/18,Jesús,Vendida,493
+1934,4/3/17,Industrial,Alquiler,Monterrey,79,595660 ,9/3/18,Pedro,Vendida,518
+1936,4/4/18,Casa,Alquiler,Tijuana,180,1071720 ,3/31/19,Carmen,Vendida,361
+1938,4/5/17,Local,Alquiler,Cancún,154,1405404 ,9/8/18,María,Vendida,521
+1939,4/5/17,Local,Alquiler,Ciudad de México,261,2598516 ,8/29/18,Carmen,Vendida,511
+1942,4/6/17,Terreno,Alquiler,Monterrey,80,770800 ,11/2/18,Pedro,Vendida,575
+1943,4/7/17,Estacionamiento,Alquiler,Monterrey,261,1189377 ,9/19/18,Jesús,Vendida,530
+1944,4/7/18,Terreno,Alquiler,Monterrey,82,418610 ,3/3/19,Joaquín,Vendida,330
+1945,4/7/17,Terreno,Alquiler,Tijuana,234,1475136 ,9/18/18,Carmen,Vendida,529
+1946,4/7/17,Local,Alquiler,Ciudad de México,84,412272 ,11/8/18,Luisa,Vendida,580
+1951,4/9/18,Oficina,Alquiler,Cancún,113,704894 ,1/27/19,Carmen,Vendida,293
+1952,4/9/17,Casa,Alquiler,Cancún,58,407044 ,8/29/18,Jesús,Vendida,507
+1953,4/9/18,Casa,Alquiler,Tijuana,45,402885 ,3/28/19,Joaquín,Vendida,353
+1956,4/10/17,Estacionamiento,Alquiler,Tijuana,89,711199 ,8/21/18,Carmen,Vendida,498
+1959,4/11/18,Local,Alquiler,Tijuana,130,1276600 ,1/4/19,María,Vendida,268
+1961,4/12/18,Estacionamiento,Alquiler,Cancún,124,1026596 ,3/28/19,Carmen,Vendida,350
+1967,4/14/18,Industrial,Alquiler,Tijuana,189,1192401 ,3/20/19,Carmen,Vendida,340
+1969,4/15/18,Industrial,Alquiler,Monterrey,154,960960 ,3/23/19,Jesús,Vendida,342
+1974,4/18/18,Departamento,Alquiler,Ciudad de México,166,971100 ,3/2/19,Luisa,Vendida,318
+1975,4/20/17,Oficina,Alquiler,Monterrey,120,1085160 ,8/14/18,Luisa,Vendida,481
+1976,4/20/18,Oficina,Alquiler,Tijuana,89,673552 ,1/21/19,Luisa,Vendida,276
+1979,4/21/17,Terreno,Alquiler,Ciudad de México,121,652190 ,12/9/18,Luisa,Vendida,597
+1982,4/22/17,Estacionamiento,Alquiler,Ciudad de México,94,559206 ,9/23/18,Joaquín,Vendida,519
+1985,4/22/18,Terreno,Alquiler,Ciudad de México,48,224304 ,2/11/19,Luisa,Vendida,295
+1988,4/23/17,Industrial,Alquiler,Monterrey,75,622200 ,11/26/18,María,Vendida,582
+1990,4/25/18,Terreno,Alquiler,Monterrey,193,1363352 ,4/2/19,Carmen,Vendida,342
+1991,4/25/18,Departamento,Alquiler,Cancún,212,1203524 ,4/14/19,Luisa,Vendida,354
+1993,4/26/18,Industrial,Alquiler,Cancún,187,1359677 ,2/12/19,Pedro,Vendida,292
+1994,4/27/17,Estacionamiento,Alquiler,Cancún,286,2398682 ,8/6/18,Joaquín,Vendida,466
+1995,4/28/18,Estacionamiento,Alquiler,Monterrey,70,533680 ,1/9/19,María,Vendida,256
+1996,4/28/17,Local,Alquiler,Cancún,279,1794807 ,11/18/18,Luisa,Vendida,569
+1997,4/28/17,Estacionamiento,Alquiler,Cancún,270,1716390 ,11/22/18,Jesús,Vendida,573
+2000,4/29/17,Departamento,Alquiler,Ciudad de México,69,464577 ,9/20/18,Joaquín,Vendida,509
+2001,4/29/18,Departamento,Alquiler,Ciudad de México,132,580800 ,3/13/19,Joaquín,Vendida,318
+2003,4/30/17,Local,Alquiler,Monterrey,220,1548800 ,10/4/18,María,Vendida,522
+2007,5/1/17,Casa,Alquiler,Cancún,296,2813776 ,10/22/18,Luisa,Vendida,539
+2008,5/1/18,Estacionamiento,Alquiler,Monterrey,123,984369 ,3/23/19,Pedro,Vendida,326
+2011,5/2/17,Departamento,Alquiler,Cancún,238,1953742 ,12/19/18,Joaquín,Vendida,596
+2014,5/3/18,Industrial,Alquiler,Monterrey,250,1002500 ,1/16/19,Carmen,Vendida,258
+2016,5/3/18,Industrial,Alquiler,Tijuana,188,1769644 ,2/23/19,Carmen,Vendida,296
+2017,5/3/18,Departamento,Alquiler,Ciudad de México,144,1211184 ,2/27/19,María,Vendida,300
+2020,5/5/18,Local,Alquiler,Monterrey,250,2281250 ,3/8/19,Luisa,Vendida,307
+2022,5/8/18,Casa,Alquiler,Tijuana,257,1591344 ,1/19/19,Luisa,Vendida,256
+2024,5/9/17,Departamento,Alquiler,Cancún,283,2072692 ,10/2/18,Carmen,Vendida,511
+2026,5/10/17,Departamento,Alquiler,Cancún,300,2585100 ,10/15/18,Luisa,Vendida,523
+2028,5/12/18,Estacionamiento,Alquiler,Tijuana,236,2001280 ,3/4/19,Jesús,Vendida,296
+2029,5/12/17,Estacionamiento,Alquiler,Cancún,92,506184 ,12/29/18,María,Vendida,596
+2031,5/12/18,Terreno,Alquiler,Ciudad de México,104,831896 ,2/22/19,Pedro,Vendida,286
+2033,5/13/17,Terreno,Alquiler,Ciudad de México,86,360942 ,11/17/18,Jesús,Vendida,553
+2034,5/13/17,Oficina,Alquiler,Ciudad de México,275,1819950 ,11/11/18,Luisa,Vendida,547
+2036,5/14/18,Estacionamiento,Alquiler,Tijuana,210,1371720 ,3/26/19,Pedro,Vendida,316
+2037,5/14/17,Terreno,Alquiler,Cancún,197,1840571 ,10/10/18,Luisa,Vendida,514
+2039,5/14/17,Departamento,Alquiler,Cancún,199,817094 ,10/12/18,María,Vendida,516
+2040,5/14/17,Terreno,Alquiler,Ciudad de México,195,1790490 ,12/16/18,Carmen,Vendida,581
+2043,5/16/18,Local,Alquiler,Monterrey,277,1802993 ,3/1/19,Joaquín,Vendida,289
+2044,5/16/17,Terreno,Alquiler,Cancún,123,499380 ,8/17/18,Joaquín,Vendida,458
+2045,5/16/17,Oficina,Alquiler,Ciudad de México,257,2203004 ,11/15/18,Pedro,Vendida,548
+2049,5/18/17,Industrial,Alquiler,Monterrey,167,853370 ,9/22/18,María,Vendida,492
+2050,5/18/17,Oficina,Alquiler,Ciudad de México,176,1214576 ,10/8/18,Luisa,Vendida,508
+2051,5/18/17,Departamento,Alquiler,Ciudad de México,149,1099024 ,10/1/18,Luisa,Vendida,501
+2052,5/19/18,Industrial,Alquiler,Cancún,49,248283 ,4/14/19,María,Vendida,330
+2054,5/20/17,Oficina,Alquiler,Monterrey,156,1294176 ,10/5/18,Carmen,Vendida,503
+2055,5/20/17,Oficina,Alquiler,Tijuana,225,1752975 ,9/22/18,Jesús,Vendida,490
+2059,5/21/18,Industrial,Alquiler,Ciudad de México,277,2268076 ,1/25/19,María,Vendida,249
+2063,5/22/17,Local,Alquiler,Tijuana,232,1699168 ,8/27/18,Carmen,Vendida,462
+2065,5/23/18,Casa,Alquiler,Cancún,202,1112010 ,1/29/19,Pedro,Vendida,251
+2066,5/24/18,Estacionamiento,Alquiler,Ciudad de México,125,822625 ,1/31/19,Joaquín,Vendida,252
+2068,5/25/18,Casa,Alquiler,Cancún,195,1927770 ,1/10/19,Jesús,Vendida,230
+2070,5/26/17,Departamento,Alquiler,Tijuana,43,379905 ,12/26/18,Jesús,Vendida,579
+2071,5/26/17,Industrial,Alquiler,Monterrey,278,2336590 ,12/26/18,Luisa,Vendida,579
+2072,5/27/18,Departamento,Alquiler,Tijuana,207,1381104 ,4/30/19,María,Vendida,338
+2073,5/27/18,Local,Alquiler,Ciudad de México,80,786320 ,1/5/19,Jesús,Vendida,223
+2074,5/27/17,Departamento,Alquiler,Monterrey,233,1682260 ,8/25/18,,En Proceso,455
+2075,5/28/17,Oficina,Alquiler,Cancún,106,795318 ,9/11/18,Joaquín,Vendida,471
+2076,5/28/18,Estacionamiento,Alquiler,Ciudad de México,194,1466058 ,1/29/19,Carmen,Vendida,246
+2077,5/28/18,Departamento,Alquiler,Monterrey,253,1162788 ,1/22/19,Luisa,Vendida,239
+2079,5/29/18,Local,Alquiler,Cancún,40,328720 ,3/20/19,Luisa,Vendida,295
+2085,5/31/17,Casa,Alquiler,Ciudad de México,86,419250 ,11/26/18,María,Vendida,544
+2089,6/1/18,Casa,Alquiler,Cancún,167,685368 ,1/13/19,Carmen,Vendida,226
+2091,6/2/18,Casa,Alquiler,Tijuana,209,2017268 ,1/26/19,Luisa,Vendida,238
+2092,6/2/17,Estacionamiento,Alquiler,Monterrey,189,1342278 ,12/16/18,Carmen,Vendida,562
+2097,6/3/17,Oficina,Alquiler,Cancún,91,696696 ,9/1/18,,En Proceso,455
+2102,6/5/17,Estacionamiento,Alquiler,Cancún,211,1126951 ,12/8/18,Joaquín,Vendida,551
+2104,6/5/18,Estacionamiento,Alquiler,Tijuana,173,1251828 ,3/4/19,Joaquín,Vendida,272
+2106,6/6/18,Departamento,Alquiler,Ciudad de México,264,1344024 ,3/22/19,María,Vendida,289
+2107,6/6/18,Local,Alquiler,Cancún,170,1397060 ,4/30/19,Pedro,Vendida,328
+2108,6/6/17,Terreno,Alquiler,Ciudad de México,217,1363411 ,12/18/18,Carmen,Vendida,560
+2111,6/6/17,Estacionamiento,Alquiler,Cancún,81,405324 ,9/4/18,,En Proceso,455
+2114,6/7/17,Industrial,Alquiler,Monterrey,169,1447316 ,9/5/18,,En Proceso,455
+2115,6/7/17,Local,Alquiler,Ciudad de México,201,1342278 ,12/3/18,Luisa,Vendida,544
+2116,6/7/18,Industrial,Alquiler,Cancún,270,2632500 ,4/18/19,Carmen,Vendida,315
+2118,6/8/18,Terreno,Alquiler,Monterrey,71,378359 ,1/11/19,Pedro,Vendida,217
+2119,6/8/17,Terreno,Alquiler,Cancún,255,2380170 ,9/30/18,Pedro,Vendida,479
+2120,6/9/18,Terreno,Alquiler,Ciudad de México,267,2211294 ,5/6/19,Joaquín,Vendida,331
+2121,6/10/17,Industrial,Alquiler,Cancún,298,2693026 ,9/8/18,,En Proceso,455
+2124,6/10/17,Industrial,Alquiler,Cancún,119,1149897 ,10/27/18,Luisa,Vendida,504
+2128,6/11/18,Local,Alquiler,Cancún,133,936187 ,2/10/19,Pedro,Vendida,244
+2129,6/11/17,Departamento,Alquiler,Tijuana,126,1102500 ,10/13/18,Pedro,Vendida,489
+2130,6/11/17,Local,Alquiler,Ciudad de México,275,1443750 ,9/9/18,,En Proceso,455
+2132,6/11/17,Casa,Alquiler,Monterrey,231,2069529 ,12/24/18,Jesús,Vendida,561
+2137,6/15/17,Local,Alquiler,Monterrey,161,1027180 ,10/17/18,María,Vendida,489
+2140,6/16/18,Industrial,Alquiler,Cancún,164,1166860 ,5/7/19,Joaquín,Vendida,325
+2142,6/16/17,Estacionamiento,Alquiler,Ciudad de México,83,797215 ,10/11/18,Pedro,Vendida,482
+2146,6/17/17,Local,Alquiler,Ciudad de México,245,2030805 ,12/11/18,María,Vendida,542
+2147,6/18/18,Terreno,Alquiler,Cancún,45,181170 ,2/5/19,Jesús,Vendida,232
+2148,6/18/17,Local,Alquiler,Monterrey,297,2162160 ,12/28/18,Jesús,Vendida,558
+2150,6/20/18,Oficina,Alquiler,Ciudad de México,63,413910 ,4/29/19,María,Vendida,313
+2153,6/21/18,Local,Alquiler,Monterrey,97,620218 ,2/2/19,Jesús,Vendida,226
+2154,6/21/18,Casa,Alquiler,Tijuana,241,1327669 ,3/10/19,Jesús,Vendida,262
+2156,6/22/17,Casa,Alquiler,Cancún,246,2198502 ,11/10/18,Carmen,Vendida,506
+2157,6/23/17,Oficina,Alquiler,Cancún,178,1010862 ,11/8/18,Carmen,Vendida,503
+2159,6/24/18,Terreno,Alquiler,Tijuana,177,718266 ,3/20/19,Joaquín,Vendida,269
+2160,6/24/18,Terreno,Alquiler,Tijuana,281,1521615 ,4/19/19,Carmen,Vendida,299
+2161,6/24/17,Estacionamiento,Alquiler,Tijuana,113,797215 ,12/3/18,María,Vendida,527
+2162,6/25/18,Casa,Alquiler,Cancún,213,1253505 ,2/18/19,María,Vendida,238
+2164,6/25/17,Estacionamiento,Alquiler,Ciudad de México,155,912330 ,11/28/18,Pedro,Vendida,521
+2168,6/28/18,Departamento,Alquiler,Monterrey,71,320281 ,3/7/19,Jesús,Vendida,252
+2170,6/30/18,Departamento,Alquiler,Monterrey,68,396780 ,2/10/19,Carmen,Vendida,225
+2171,6/30/17,Terreno,Alquiler,Monterrey,126,536634 ,9/28/18,,En Proceso,455
+2175,7/1/18,Industrial,Alquiler,Tijuana,160,774400 ,2/7/19,Joaquín,Vendida,221
+2177,7/1/18,Estacionamiento,Alquiler,Monterrey,89,594698 ,3/25/19,Jesús,Vendida,267
+2178,7/1/17,Estacionamiento,Alquiler,Ciudad de México,234,1182636 ,12/4/18,Carmen,Vendida,521
+2180,7/2/18,Estacionamiento,Alquiler,Cancún,147,1362984 ,2/12/19,Carmen,Vendida,225
+2181,7/2/17,Estacionamiento,Alquiler,Tijuana,163,1298947 ,12/23/18,María,Vendida,539
+2182,7/2/17,Terreno,Alquiler,Cancún,187,1059916 ,10/3/18,Carmen,Vendida,458
+2183,7/3/17,Industrial,Alquiler,Ciudad de México,103,517472 ,10/1/18,,En Proceso,455
+2184,7/4/18,Industrial,Alquiler,Monterrey,74,304288 ,5/7/19,Luisa,Vendida,307
+2185,7/4/17,Industrial,Alquiler,Tijuana,275,2415325 ,12/17/18,Carmen,Vendida,531
+2188,7/5/17,Estacionamiento,Alquiler,Tijuana,283,1470185 ,12/18/18,Jesús,Vendida,531
+2189,7/6/18,Industrial,Alquiler,Tijuana,212,1758964 ,3/24/19,Luisa,Vendida,261
+2190,7/6/18,Local,Alquiler,Monterrey,76,546440 ,4/10/19,Luisa,Vendida,278
+2192,7/7/18,Departamento,Alquiler,Monterrey,58,350610 ,3/9/19,María,Vendida,245
+2194,7/8/18,Departamento,Alquiler,Tijuana,245,1284045 ,5/7/19,Joaquín,Vendida,303
+2196,7/8/18,Local,Alquiler,Tijuana,155,845370 ,4/13/19,Joaquín,Vendida,279
+2199,7/10/18,Casa,Alquiler,Ciudad de México,83,503478 ,4/4/19,Joaquín,Vendida,268
+2200,7/10/18,Local,Alquiler,Monterrey,50,390400 ,1/15/19,Carmen,Vendida,189
+2208,7/13/18,Departamento,Alquiler,Ciudad de México,290,2702220 ,3/16/19,Carmen,Vendida,246
+2209,7/14/18,Departamento,Alquiler,Cancún,139,879870 ,2/21/19,Pedro,Vendida,222
+2210,7/16/17,Estacionamiento,Alquiler,Monterrey,274,2189534 ,11/17/18,Luisa,Vendida,489
+2211,7/16/18,Industrial,Alquiler,Ciudad de México,83,375243 ,1/14/19,Pedro,Vendida,182
+2214,7/17/17,Terreno,Alquiler,Tijuana,155,950615 ,11/15/18,María,Vendida,486
+2215,7/17/18,Terreno,Alquiler,Tijuana,234,1016964 ,3/18/19,Luisa,Vendida,244
+2216,7/17/18,Departamento,Alquiler,Monterrey,244,1315648 ,3/1/19,María,Vendida,227
+2217,7/18/17,Terreno,Alquiler,Ciudad de México,252,1889748 ,11/23/18,Luisa,Vendida,493
+2220,7/18/17,Industrial,Alquiler,Tijuana,132,949344 ,10/16/18,,En Proceso,455
+2221,7/19/18,Terreno,Alquiler,Ciudad de México,273,2682225 ,2/4/19,Pedro,Vendida,200
+2224,7/19/17,Estacionamiento,Alquiler,Monterrey,147,891849 ,10/17/18,,En Proceso,455
+2226,7/20/17,Oficina,Alquiler,Monterrey,170,1039380 ,11/25/18,Joaquín,Vendida,493
+2229,7/21/18,Oficina,Alquiler,Tijuana,91,659022 ,2/26/19,Pedro,Vendida,220
+2233,7/23/18,Oficina,Alquiler,Ciudad de México,157,1095860 ,4/21/19,Luisa,Vendida,272
+2236,7/24/18,Departamento,Alquiler,Ciudad de México,163,1550456 ,2/3/19,Carmen,Vendida,194
+2237,7/24/17,Departamento,Alquiler,Cancún,293,1431891 ,10/22/18,,En Proceso,455
+2238,7/25/17,Departamento,Alquiler,Ciudad de México,195,1899690 ,11/18/18,Jesús,Vendida,481
+2239,7/25/18,Estacionamiento,Alquiler,Ciudad de México,159,931104 ,3/20/19,María,Vendida,238
+2240,7/26/17,Estacionamiento,Alquiler,Monterrey,123,714999 ,10/24/18,,En Proceso,455
+2242,7/27/17,Estacionamiento,Alquiler,Cancún,177,1064301 ,10/25/18,,En Proceso,455
+2246,7/28/18,Casa,Alquiler,Tijuana,239,2199995 ,3/4/19,Jesús,Vendida,219
+2247,7/28/17,Estacionamiento,Alquiler,Ciudad de México,282,1170300 ,12/15/18,Jesús,Vendida,505
+2248,7/29/18,Terreno,Alquiler,Tijuana,117,610740 ,4/6/19,María,Vendida,251
+2250,7/30/17,Local,Alquiler,Tijuana,93,867783 ,12/30/18,María,Vendida,518
+2251,7/31/18,Terreno,Alquiler,Ciudad de México,102,688092 ,1/21/19,Joaquín,Vendida,174
+2253,7/31/18,Oficina,Alquiler,Ciudad de México,291,2874207 ,4/24/19,Jesús,Vendida,267
+2254,7/31/17,Estacionamiento,Alquiler,Ciudad de México,108,1002348 ,10/29/18,,En Proceso,455
+2255,7/31/18,Departamento,Alquiler,Cancún,52,395096 ,3/21/19,María,Vendida,233
+2259,8/2/18,Estacionamiento,Alquiler,Ciudad de México,237,1732233 ,1/23/19,Pedro,Vendida,174
+2261,8/3/18,Estacionamiento,Alquiler,Cancún,53,395751 ,4/18/19,Joaquín,Vendida,258
+2266,8/6/18,Departamento,Alquiler,Cancún,253,2211979 ,3/5/19,María,Vendida,211
+2267,8/7/18,Estacionamiento,Alquiler,Tijuana,169,1673607 ,1/7/19,Luisa,Vendida,153
+2269,8/8/17,Oficina,Alquiler,Monterrey,97,696169 ,11/6/18,,En Proceso,455
+2273,8/8/17,Industrial,Alquiler,Ciudad de México,275,2171950 ,11/6/18,,En Proceso,455
+2274,8/9/18,Casa,Alquiler,Ciudad de México,274,1233000 ,2/5/19,Joaquín,Vendida,180
+2277,8/11/18,Oficina,Alquiler,Cancún,268,1984808 ,3/6/19,Carmen,Vendida,207
+2278,8/11/18,Industrial,Alquiler,Tijuana,270,1705320 ,3/26/19,Luisa,Vendida,227
+2279,8/11/17,Local,Alquiler,Tijuana,220,1772540 ,12/25/18,Pedro,Vendida,501
+2282,8/12/17,Industrial,Alquiler,Tijuana,126,1199394 ,11/10/18,,En Proceso,455
+2285,8/13/17,Departamento,Alquiler,Monterrey,297,2909412 ,11/11/18,,En Proceso,455
+2287,8/13/17,Oficina,Alquiler,Tijuana,86,733236 ,12/15/18,Jesús,Vendida,489
+2288,8/14/17,Oficina,Alquiler,Tijuana,192,1622400 ,11/16/18,Carmen,Vendida,459
+2289,8/14/18,Estacionamiento,Alquiler,Cancún,207,1473219 ,2/20/19,Jesús,Vendida,190
+2291,8/15/17,Casa,Alquiler,Cancún,61,563762 ,11/13/18,,En Proceso,455
+2294,8/17/17,Terreno,Alquiler,Monterrey,116,1041448 ,11/15/18,,En Proceso,455
+2296,8/21/18,Industrial,Alquiler,Monterrey,71,336043 ,3/5/19,Luisa,Vendida,196
+2298,8/21/17,Estacionamiento,Alquiler,Ciudad de México,118,853494 ,11/19/18,,En Proceso,455
+2301,8/22/17,Terreno,Alquiler,Tijuana,215,1694630 ,11/20/18,,En Proceso,455
+2304,8/22/18,Estacionamiento,Alquiler,Tijuana,40,380280 ,3/29/19,Jesús,Vendida,219
+2310,8/25/18,Departamento,Alquiler,Monterrey,58,326598 ,3/23/19,María,Vendida,210
+2312,8/26/18,Estacionamiento,Alquiler,Tijuana,61,531493 ,1/3/19,Jesús,Vendida,130
+2314,8/26/18,Estacionamiento,Alquiler,Tijuana,59,307744 ,4/28/19,María,Vendida,245
+2315,8/27/17,Terreno,Alquiler,Tijuana,67,506252 ,11/25/18,,En Proceso,455
+2316,8/27/18,Departamento,Alquiler,Monterrey,76,498560 ,1/28/19,Pedro,Vendida,154
+2317,8/28/17,Casa,Alquiler,Cancún,199,1277381 ,11/26/18,,En Proceso,455
+2318,8/28/17,Departamento,Alquiler,Tijuana,146,1287428 ,11/26/18,,En Proceso,455
+2322,8/29/17,Estacionamiento,Alquiler,Monterrey,44,380072 ,12/14/18,Joaquín,Vendida,472
+2323,8/29/17,Casa,Alquiler,Cancún,73,354853 ,11/27/18,,En Proceso,455
+2329,9/1/18,Local,Alquiler,Tijuana,43,403770 ,2/28/19,Jesús,Vendida,180
+2333,9/3/18,Industrial,Alquiler,Cancún,158,1553772 ,4/20/19,Luisa,Vendida,229
+2335,9/4/17,Casa,Alquiler,Tijuana,221,1556282 ,12/3/18,,En Proceso,455
+2336,9/4/18,Casa,Alquiler,Cancún,67,613251 ,3/8/19,Joaquín,Vendida,185
+2337,9/4/17,Local,Alquiler,Ciudad de México,171,1176480 ,12/3/18,,En Proceso,455
+2339,9/5/17,Local,Alquiler,Monterrey,242,2326346 ,12/4/18,,En Proceso,455
+2340,9/6/17,Casa,Alquiler,Monterrey,291,1643568 ,12/5/18,,En Proceso,455
+2341,9/6/17,Departamento,Alquiler,Monterrey,274,2445724 ,12/20/18,Luisa,Vendida,470
+2343,9/7/17,Terreno,Alquiler,Cancún,71,348823 ,12/6/18,,En Proceso,455
+2345,9/7/18,Industrial,Alquiler,Monterrey,53,478431 ,1/28/19,Carmen,Vendida,143
+2346,9/7/17,Estacionamiento,Alquiler,Ciudad de México,151,1110907 ,12/6/18,,En Proceso,455
+2348,9/8/18,Terreno,Alquiler,Cancún,94,407114 ,4/24/19,Pedro,Vendida,228
+2350,9/8/17,Departamento,Alquiler,Ciudad de México,122,770552 ,12/7/18,,En Proceso,455
+2354,9/10/18,Oficina,Alquiler,Ciudad de México,142,680606 ,2/19/19,Pedro,Vendida,162
+2356,9/10/17,Oficina,Alquiler,Cancún,285,1299315 ,12/9/18,,En Proceso,455
+2359,9/12/18,Industrial,Alquiler,Ciudad de México,109,591325 ,1/7/19,Joaquín,Vendida,117
+2364,9/14/18,Departamento,Alquiler,Cancún,117,482274 ,5/2/19,María,Vendida,230
+2367,9/16/18,Terreno,Alquiler,Ciudad de México,224,1956864 ,1/28/19,Carmen,Vendida,134
+2368,9/16/17,Oficina,Alquiler,Tijuana,72,604440 ,12/15/18,,En Proceso,455
+2369,9/16/18,Estacionamiento,Alquiler,Ciudad de México,109,535408 ,1/6/19,Joaquín,Vendida,112
+2370,9/17/17,Oficina,Alquiler,Cancún,126,779058 ,12/16/18,,En Proceso,455
+2378,9/20/17,Terreno,Alquiler,Cancún,208,2066688 ,12/19/18,,En Proceso,455
+2382,9/21/18,Industrial,Alquiler,Tijuana,279,1262196 ,4/24/19,Jesús,Vendida,215
+2386,9/23/18,Oficina,Alquiler,Monterrey,134,1088616 ,3/11/19,María,Vendida,169
+2388,9/25/18,Oficina,Alquiler,Cancún,189,958608 ,2/23/19,Jesús,Vendida,151
+2390,9/25/18,Terreno,Alquiler,Ciudad de México,41,185976 ,1/19/19,Luisa,Vendida,116
+2391,9/25/18,Departamento,Alquiler,Tijuana,110,641080 ,1/31/19,Carmen,Vendida,128
+2392,9/26/18,Terreno,Alquiler,Cancún,77,375067 ,1/10/19,Carmen,Vendida,106
+2395,9/28/18,Casa,Alquiler,Ciudad de México,133,976885 ,1/14/19,Pedro,Vendida,108
+2397,9/28/17,Terreno,Alquiler,Monterrey,194,1519214 ,12/27/18,,En Proceso,455
+2403,10/2/18,Local,Alquiler,Monterrey,72,372672 ,5/4/19,María,Vendida,214
+2405,10/2/18,Terreno,Alquiler,Monterrey,271,1780199 ,3/20/19,Carmen,Vendida,169
+2419,10/8/18,Departamento,Alquiler,Tijuana,59,552476 ,1/6/19,,En Proceso,90
+2420,10/8/18,Terreno,Alquiler,Monterrey,136,777240 ,4/4/19,Carmen,Vendida,178
+2426,10/9/18,Local,Alquiler,Ciudad de México,280,2327080 ,1/7/19,,En Proceso,90
+2427,10/9/18,Local,Alquiler,Tijuana,191,1345213 ,1/7/19,,En Proceso,90
+2429,10/10/18,Oficina,Alquiler,Cancún,202,1028988 ,1/8/19,,En Proceso,90
+2430,10/11/18,Oficina,Alquiler,Tijuana,178,1319336 ,1/9/19,,En Proceso,90
+2435,10/13/18,Terreno,Alquiler,Ciudad de México,117,762606 ,1/11/19,,En Proceso,90
+2437,10/13/18,Oficina,Alquiler,Cancún,271,2621925 ,2/19/19,Carmen,Vendida,129
+2439,10/14/18,Terreno,Alquiler,Cancún,293,2560527 ,1/12/19,,En Proceso,90
+2441,10/15/18,Industrial,Alquiler,Ciudad de México,83,695789 ,2/18/19,Carmen,Vendida,126
+2442,10/16/18,Oficina,Alquiler,Ciudad de México,250,1480500 ,2/19/19,Luisa,Vendida,126
+2445,10/17/18,Casa,Alquiler,Tijuana,128,544896 ,1/15/19,,En Proceso,90
+2447,10/18/18,Industrial,Alquiler,Tijuana,92,538568 ,1/16/19,,En Proceso,90
+2448,10/18/18,Local,Alquiler,Cancún,166,1573514 ,3/17/19,Pedro,Vendida,150
+2453,10/21/18,Local,Alquiler,Cancún,123,961368 ,1/19/19,,En Proceso,90
+2454,10/21/18,Local,Alquiler,Ciudad de México,128,1162624 ,1/19/19,,En Proceso,90
+2457,10/23/18,Industrial,Alquiler,Tijuana,242,1250172 ,3/8/19,María,Vendida,136
+2460,10/23/18,Local,Alquiler,Monterrey,273,1766310 ,1/21/19,,En Proceso,90
+2461,10/24/18,Terreno,Alquiler,Cancún,187,1469446 ,3/31/19,Joaquín,Vendida,158
+2462,10/24/18,Estacionamiento,Alquiler,Cancún,221,1318707 ,1/22/19,,En Proceso,90
+2463,10/24/18,Oficina,Alquiler,Monterrey,224,1126944 ,4/7/19,Joaquín,Vendida,165
+2464,10/25/18,Estacionamiento,Alquiler,Ciudad de México,137,931463 ,1/23/19,,En Proceso,90
+2467,10/26/18,Departamento,Alquiler,Ciudad de México,111,529137 ,1/24/19,,En Proceso,90
+2469,10/26/18,Industrial,Alquiler,Monterrey,41,379291 ,4/26/19,María,Vendida,182
+2471,10/28/18,Casa,Alquiler,Cancún,247,1107301 ,1/26/19,,En Proceso,90
+2472,10/29/18,Industrial,Alquiler,Tijuana,172,1167020 ,3/28/19,Pedro,Vendida,150
+2473,10/29/18,Casa,Alquiler,Monterrey,125,1041625 ,5/4/19,Pedro,Vendida,187
+2474,10/29/18,Terreno,Alquiler,Ciudad de México,245,1240925 ,1/27/19,,En Proceso,90
+2475,10/29/18,Terreno,Alquiler,Monterrey,73,660577 ,3/25/19,Carmen,Vendida,147
+2477,10/29/18,Departamento,Alquiler,Cancún,156,887328 ,1/27/19,,En Proceso,90
+2478,10/30/18,Estacionamiento,Alquiler,Ciudad de México,63,416997 ,3/13/19,Joaquín,Vendida,134
+2479,10/30/18,Casa,Alquiler,Cancún,99,455499 ,1/28/19,,En Proceso,90
+2480,10/31/18,Departamento,Alquiler,Monterrey,285,1940565 ,1/29/19,,En Proceso,90
+2483,11/1/18,Local,Alquiler,Cancún,121,567611 ,3/18/19,Jesús,Vendida,137
+2484,11/1/18,Departamento,Alquiler,Cancún,260,2292160 ,3/7/19,Jesús,Vendida,126
+2486,11/2/18,Oficina,Alquiler,Ciudad de México,47,400816 ,3/28/19,Carmen,Vendida,146
+2488,11/3/18,Terreno,Alquiler,Tijuana,283,2569923 ,3/28/19,Pedro,Vendida,145
+2489,11/3/18,Estacionamiento,Alquiler,Ciudad de México,123,963459 ,2/1/19,,En Proceso,90
+2490,11/3/18,Estacionamiento,Alquiler,Ciudad de México,141,763938 ,5/6/19,Jesús,Vendida,184
+2491,11/3/18,Estacionamiento,Alquiler,Ciudad de México,43,294722 ,5/5/19,Jesús,Vendida,183
+2492,11/3/18,Terreno,Alquiler,Tijuana,76,354084 ,2/1/19,,En Proceso,90
+2493,11/3/18,Estacionamiento,Alquiler,Monterrey,275,1623600 ,4/28/19,Pedro,Vendida,176
+2496,11/4/18,Local,Alquiler,Monterrey,197,1704050 ,2/2/19,,En Proceso,90
+2498,11/5/18,Industrial,Alquiler,Ciudad de México,208,1269008 ,2/3/19,,En Proceso,90
+2500,11/5/18,Industrial,Alquiler,Tijuana,75,480600 ,2/3/19,,En Proceso,90
+2501,11/5/18,Casa,Alquiler,Tijuana,212,1357648 ,4/25/19,Luisa,Vendida,171
+2506,11/7/18,Local,Alquiler,Monterrey,166,1607710 ,2/5/19,,En Proceso,90
+2508,11/8/18,Local,Alquiler,Tijuana,174,799356 ,2/6/19,,En Proceso,90
+2511,11/9/18,Estacionamiento,Alquiler,Ciudad de México,295,1767345 ,4/3/19,Jesús,Vendida,145
+2515,11/9/18,Departamento,Alquiler,Ciudad de México,285,2565285 ,2/7/19,,En Proceso,90
+2516,11/9/18,Industrial,Alquiler,Ciudad de México,195,1414140 ,2/7/19,,En Proceso,90
+2517,11/10/18,Terreno,Alquiler,Monterrey,201,850029 ,4/22/19,María,Vendida,163
+2518,11/10/18,Local,Alquiler,Monterrey,61,265289 ,2/17/19,Carmen,Vendida,99
+2519,11/11/18,Local,Alquiler,Tijuana,239,1197390 ,2/9/19,,En Proceso,90
+2520,11/11/18,Departamento,Alquiler,Ciudad de México,223,1071515 ,3/20/19,Luisa,Vendida,129
+2522,11/12/18,Terreno,Alquiler,Ciudad de México,132,936672 ,2/10/19,,En Proceso,90
+2524,11/13/18,Estacionamiento,Alquiler,Ciudad de México,186,1464192 ,2/11/19,,En Proceso,90
+2525,11/13/18,Oficina,Alquiler,Ciudad de México,173,934200 ,2/11/19,,En Proceso,90
+2527,11/14/18,Oficina,Alquiler,Ciudad de México,234,979056 ,4/26/19,Jesús,Vendida,163
+2528,11/16/18,Departamento,Alquiler,Monterrey,258,1058832 ,2/14/19,,En Proceso,90
+2529,11/17/18,Casa,Alquiler,Cancún,214,1771492 ,2/15/19,,En Proceso,90
+2535,11/20/18,Industrial,Alquiler,Monterrey,149,1454836 ,2/18/19,,En Proceso,90
+2536,11/20/18,Casa,Alquiler,Cancún,282,1239672 ,3/10/19,Jesús,Vendida,110
+2537,11/20/18,Industrial,Alquiler,Ciudad de México,169,720278 ,2/18/19,,En Proceso,90
+2538,11/21/18,Departamento,Alquiler,Cancún,113,879366 ,2/19/19,,En Proceso,90
+2539,11/22/18,Local,Alquiler,Ciudad de México,128,669056 ,3/15/19,Joaquín,Vendida,113
+2540,11/22/18,Local,Alquiler,Cancún,228,2081868 ,2/20/19,,En Proceso,90
+2541,11/23/18,Terreno,Alquiler,Cancún,125,1166375 ,2/21/19,,En Proceso,90
+2542,11/23/18,Departamento,Alquiler,Ciudad de México,282,1234032 ,4/17/19,Joaquín,Vendida,145
+2545,11/24/18,Industrial,Alquiler,Cancún,67,282405 ,2/22/19,,En Proceso,90
+2549,11/27/18,Casa,Alquiler,Tijuana,141,1045233 ,2/25/19,,En Proceso,90
+2551,11/27/18,Oficina,Alquiler,Monterrey,99,831204 ,2/25/19,,En Proceso,90
+2552,11/27/18,Casa,Alquiler,Monterrey,77,360822 ,2/25/19,,En Proceso,90
+2554,11/28/18,Casa,Alquiler,Cancún,95,519365 ,2/26/19,,En Proceso,90
+2555,11/28/18,Local,Alquiler,Cancún,175,890925 ,2/26/19,,En Proceso,90
+2557,11/28/18,Casa,Alquiler,Cancún,197,1165649 ,2/26/19,,En Proceso,90
+2560,11/29/18,Casa,Alquiler,Ciudad de México,253,1239700 ,2/27/19,,En Proceso,90
+2566,11/30/18,Oficina,Alquiler,Ciudad de México,192,1169088 ,2/28/19,,En Proceso,90
+2573,12/3/18,Casa,Alquiler,Ciudad de México,145,684110 ,3/3/19,,En Proceso,90
+2575,12/4/18,Industrial,Alquiler,Monterrey,114,1130424 ,3/4/19,,En Proceso,90
+2576,12/5/18,Casa,Alquiler,Monterrey,151,693543 ,3/5/19,,En Proceso,90
+2579,12/6/18,Casa,Alquiler,Monterrey,138,1186524 ,4/24/19,Joaquín,Vendida,139
+2580,12/7/18,Industrial,Alquiler,Ciudad de México,96,450336 ,3/7/19,,En Proceso,90
+2581,12/7/18,Industrial,Alquiler,Cancún,172,1270908 ,3/7/19,,En Proceso,90
+2583,12/7/18,Casa,Alquiler,Ciudad de México,236,2133204 ,3/13/19,Pedro,Vendida,96
+2584,12/7/18,Casa,Alquiler,Monterrey,251,1528088 ,3/7/19,,En Proceso,90
+2586,12/8/18,Departamento,Alquiler,Ciudad de México,112,774144 ,3/8/19,,En Proceso,90
+2587,12/8/18,Industrial,Alquiler,Monterrey,59,432411 ,3/8/19,,En Proceso,90
+2589,12/9/18,Terreno,Alquiler,Monterrey,193,1059956 ,3/10/19,María,Vendida,91
+2590,12/9/18,Casa,Alquiler,Ciudad de México,119,888335 ,3/9/19,,En Proceso,90
+2592,12/10/18,Local,Alquiler,Cancún,257,2170622 ,4/18/19,Jesús,Vendida,129
+2597,12/12/18,Estacionamiento,Alquiler,Tijuana,147,679140 ,3/12/19,,En Proceso,90
+2601,12/14/18,Local,Alquiler,Tijuana,200,1385200 ,3/31/19,Joaquín,Vendida,107
+2602,12/14/18,Industrial,Alquiler,Tijuana,291,2797092 ,3/14/19,,En Proceso,90
+2603,12/15/18,Casa,Alquiler,Cancún,158,1185790 ,3/15/19,,En Proceso,90
+2606,12/15/18,Local,Alquiler,Cancún,164,1482068 ,3/15/19,,En Proceso,90
+2607,12/16/18,Industrial,Alquiler,Cancún,48,249072 ,3/16/19,,En Proceso,90
+2608,12/16/18,Local,Alquiler,Ciudad de México,248,1957960 ,3/16/19,,En Proceso,90
+2610,12/16/18,Terreno,Alquiler,Monterrey,152,1147144 ,3/16/19,,En Proceso,90
+2611,12/17/18,Casa,Alquiler,Tijuana,200,1957200 ,3/17/19,,En Proceso,90
+2612,12/17/18,Departamento,Alquiler,Tijuana,182,1421056 ,4/4/19,María,Vendida,108
+2613,12/17/18,Oficina,Alquiler,Tijuana,72,339192 ,3/17/19,,En Proceso,90
+2614,12/18/18,Industrial,Alquiler,Monterrey,85,670310 ,3/18/19,,En Proceso,90
+2618,12/19/18,Departamento,Alquiler,Cancún,215,1408680 ,3/20/19,Jesús,Vendida,91
+2619,12/20/18,Departamento,Alquiler,Cancún,242,1492656 ,3/20/19,,En Proceso,90
+2624,12/22/18,Casa,Alquiler,Tijuana,100,835600 ,3/22/19,,En Proceso,90
+2629,12/24/18,Departamento,Alquiler,Monterrey,129,789738 ,3/24/19,,En Proceso,90
+2631,12/24/18,Local,Alquiler,Cancún,141,1112631 ,3/24/19,,En Proceso,90
+2632,12/25/18,Local,Alquiler,Ciudad de México,273,1993446 ,3/25/19,,En Proceso,90
+2633,12/25/18,Casa,Alquiler,Monterrey,226,2041006 ,3/25/19,,En Proceso,90
+2634,12/25/18,Industrial,Alquiler,Monterrey,80,709760 ,5/2/19,Jesús,Vendida,128
+2635,12/26/18,Casa,Alquiler,Monterrey,211,2086368 ,3/26/19,,En Proceso,90
+2636,12/26/18,Casa,Alquiler,Monterrey,80,651360 ,3/26/19,,En Proceso,90
+2637,12/26/18,Terreno,Alquiler,Monterrey,219,913449 ,3/26/19,,En Proceso,90
+2638,12/26/18,Casa,Alquiler,Monterrey,297,2673000 ,3/26/19,,En Proceso,90
+2639,12/27/18,Departamento,Alquiler,Monterrey,287,1882433 ,3/27/19,,En Proceso,90
+2641,12/28/18,Terreno,Alquiler,Monterrey,292,1751124 ,3/28/19,,En Proceso,90
+2642,12/28/18,Local,Alquiler,Cancún,224,1646624 ,3/28/19,,En Proceso,90
+2646,12/30/18,Industrial,Alquiler,Ciudad de México,62,333312 ,3/30/19,,En Proceso,90
+2647,12/30/18,Industrial,Alquiler,Cancún,149,667520 ,3/30/19,,En Proceso,90
+2648,12/30/18,Casa,Alquiler,Tijuana,264,1060488 ,4/28/19,Joaquín,Vendida,119
+2650,12/31/18,Departamento,Alquiler,Cancún,64,478272 ,3/31/19,,En Proceso,90

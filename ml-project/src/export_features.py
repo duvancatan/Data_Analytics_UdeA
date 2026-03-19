@@ -13,17 +13,33 @@ from pathlib import Path
 # Definir la ruta a la base de datos #
 # ================================== #
 BASE_DIR = Path(__file__).resolve().parents[1]
-db_path = BASE_DIR / "database/promos.db"
+db_path = BASE_DIR / "database/housing.db"
 conn = sqlite3.connect(db_path)
 
 # ========================================================= #
 # Leer la vista de features y exportarla a un archivo CSV #
 # ========================================================= #
-df_ml = pd.read_sql_query("SELECT age, duration,campaign, target FROM promos_features WHERE age < 30", conn)
+
+#query = """ SELECT  
+#                   municipality,
+#                   COUNT(*) AS Total
+#              FROM housing  
+#            GROUP BY 1
+#            ORDER BY Total;
+#"""
+
+query = """ SELECT municipality, 
+                   AVG(house_market_value) AS promedio
+            FROM housing  
+            GROUP BY 1
+            ORDER BY promedio;
+"""
+
+df_ml = pd.read_sql_query(query, conn)
 
 conn.close()
 
-output_path = BASE_DIR / "data/promos_ml.csv"
+output_path = BASE_DIR / "data/housing/query.csv"
 df_ml.to_csv(output_path, index=False)
 
-print("Dataset ML exportado correctamente")
+print("Query exportado correctamente")
