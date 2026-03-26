@@ -7,6 +7,7 @@
 # =============== #
 ml-project/.venv/
 
+
 # ====== #
 # VSCode #
 # ====== #
@@ -24,3 +25,4 @@ ml-project/.venv/
 .comandos.docx
 notebooks/*.png
 notebooks/img/*.png
+ml-project/notebooks/*.png
