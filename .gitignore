@@ -22,3 +22,5 @@ ml-project/.venv/
 # ================================ #
 .documents/
 .comandos.docx
+notebooks/*.png
+notebooks/img/*.png
