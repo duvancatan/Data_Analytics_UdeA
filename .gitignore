@@ -6,6 +6,7 @@
 # Entorno Virtual #
 # =============== #
 ml-project/.venv/
+ml-project/data/
 
 
 # ====== #
