@@ -1,7 +1,6 @@
 # ======== #
-# LBRERÍAS #
+# LIBRERÍAS #
 # ======== #
-
 
 import streamlit as st
 import pandas as pd
@@ -26,9 +25,31 @@ st.markdown("Análisis exploratorio interactivo del fraude")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("/Users/duvancatano/Documents/Data_Analytics_UdeA/ml-project/data/fraud/data_full.csv")
+    return pd.read_csv(
+        "/Users/duvancatano/Documents/Data_Analytics_UdeA/ml-project/data/fraud/fraude_full.csv"
+    )
 
 df = load_data()
+
+# ============================== #
+# CREAR VARIABLE PERIODO DEL DÍA #
+# ============================== #
+
+def periodo_dia(hora):
+
+    if 0 <= hora <= 5:
+        return "Madrugada"
+
+    elif 6 <= hora <= 11:
+        return "Mañana"
+
+    elif 12 <= hora <= 17:
+        return "Tarde"
+
+    else:
+        return "Noche"
+
+df["PERIODO_DIA"] = df["HORA_AUX"].apply(periodo_dia)
 
 # ======= #
 # SIDEBAR #
@@ -76,32 +97,100 @@ col4.metric("Edad media", f"{df['EDAD'].mean():.1f}")
 # GRID PRINCIPAL #
 # ============== #
 
-c1, c2, c3 = st.columns(3)
+c1, c2 = st.columns(2)
 
+# =================== #
+# DISTRIBUCIÓN FRAUDE #
+# =================== #
 
-# Balance fraude
 with c1:
+
     fig = px.pie(
         df,
         names="FRAUDE",
         title="Distribución Fraude",
         hole=0.5
     )
-    fig.update_layout(height=300, margin=dict(l=10,r=10,t=40,b=10))
+
+    fig.update_layout(
+        height=300,
+        margin=dict(l=10, r=10, t=40, b=10)
+    )
+
     st.plotly_chart(fig, use_container_width=True)
 
+# =============== #
+# SUBGRID DERECHA #
+# =============== #
 
-# 3. Hora
-with c3:
+sub1, sub2 = c2.columns(2)
+
+# =============== #
+# FRAUDE POR HORA #
+# =============== #
+
+with sub1:
+
     temp = df.groupby("HORA_AUX")["FRAUDE"].mean().reset_index()
-    
+
     fig = px.line(
         temp,
         x="HORA_AUX",
         y="FRAUDE",
         title="Fraude por hora"
     )
-    fig.update_layout(height=300)
+
+    fig.update_layout(
+        height=300
+    )
+
+    st.plotly_chart(fig, use_container_width=True)
+
+# ========================== #
+# FRAUDE POR PERIODO DEL DÍA #
+# ========================== #
+
+with sub2:
+
+    orden_periodos = [
+        "Madrugada",
+        "Mañana",
+        "Tarde",
+        "Noche"
+    ]
+
+    df["PERIODO_DIA"] = pd.Categorical(
+        df["PERIODO_DIA"],
+        categories=orden_periodos,
+        ordered=True
+    )
+
+    tabla = pd.crosstab(
+        df["PERIODO_DIA"],
+        df["FRAUDE"],
+        normalize="index"
+    )
+
+    tabla.columns = ["No fraude", "Fraude"]
+
+    tabla = tabla.reset_index()
+
+    fig = px.bar(
+        tabla,
+        x="PERIODO_DIA",
+        y="Fraude",
+        color="Fraude",
+        color_continuous_scale="Reds",
+        text_auto=".2f",
+        title="Fraude por periodo"
+    )
+
+    fig.update_layout(
+        height=300,
+        template="plotly_dark",
+        showlegend=False
+    )
+
     st.plotly_chart(fig, use_container_width=True)
 
 # ============ #
@@ -110,25 +199,30 @@ with c3:
 
 c4, c5, c6 = st.columns(3)
 
-# Día semana
+# ============== #
+# FRAUDE POR DÍA #
+# ============== #
+
 with c4:
-    # Orden correcto
+
     orden_dias = [
-        "Domingo", "Lunes", "Martes",
-        "Miercoles", "Jueves", "Viernes", "Sabado"
+        "Domingo",
+        "Lunes",
+        "Martes",
+        "Miercoles",
+        "Jueves",
+        "Viernes",
+        "Sabado"
     ]
 
-    # Asegurar tipo categórico ordenado
     df["DIASEM"] = pd.Categorical(
         df["DIASEM"],
         categories=orden_dias,
         ordered=True
     )
 
-    # Agrupar
     temp = df.groupby("DIASEM")["FRAUDE"].mean().reset_index()
 
-    # Gráfico
     fig = px.bar(
         temp,
         x="DIASEM",
@@ -136,12 +230,18 @@ with c4:
         title="Fraude por día"
     )
 
-    fig.update_layout(height=300)
+    fig.update_layout(
+        height=300
+    )
 
     st.plotly_chart(fig, use_container_width=True)
 
-# Quincena  
+# =================== #
+# FRAUDE POR QUINCENA #
+# =================== #
+
 with c5:
+
     temp = df.groupby("QUINCENA")["FRAUDE"].mean().reset_index()
 
     fig = px.bar(
@@ -154,12 +254,18 @@ with c5:
         text_auto=".2f"
     )
 
-    fig.update_layout(height=300)
+    fig.update_layout(
+        height=300
+    )
 
-    st.plotly_chart(fig, use_container_width=True) 
+    st.plotly_chart(fig, use_container_width=True)
 
-# Canal
+# ================ #
+# FRAUDE POR CANAL #
+# ================ #
+
 with c6:
+
     temp = df.groupby("CANAL")["FRAUDE"].mean().reset_index()
 
     fig = px.bar(
@@ -168,7 +274,11 @@ with c6:
         y="FRAUDE",
         title="Fraude por canal"
     )
-    fig.update_layout(height=300)
+
+    fig.update_layout(
+        height=300
+    )
+
     st.plotly_chart(fig, use_container_width=True)
 
 # ============ #
@@ -177,8 +287,12 @@ with c6:
 
 c7, c8 = st.columns(2)
 
-# Edad
+# ============== #
+# EDAD VS FRAUDE #
+# ============== #
+
 with c7:
+
     fig = px.histogram(
         df,
         x="EDAD",
@@ -187,11 +301,19 @@ with c7:
         title="Edad vs fraude",
         barmode="overlay"
     )
-    fig.update_layout(height=300)
+
+    fig.update_layout(
+        height=300
+    )
+
     st.plotly_chart(fig, use_container_width=True)
 
-# Finanzas
+# =================== #
+# INGRESOS VS EGRESOS #
+# =================== #
+
 with c8:
+
     fig = px.scatter(
         df,
         x="INGRESOS",
@@ -200,9 +322,14 @@ with c8:
         title="Ingresos vs Egresos",
         opacity=0.6
     )
+
     fig.update_xaxes(type="log")
     fig.update_yaxes(type="log")
-    fig.update_layout(height=300)
+
+    fig.update_layout(
+        height=300
+    )
+
     st.plotly_chart(fig, use_container_width=True)
 
 # ========= #
@@ -220,7 +347,9 @@ fig = px.scatter(
     title="Movilidad internacional"
 )
 
-fig.update_layout(height=350)
+fig.update_layout(
+    height=350
+)
 
 st.plotly_chart(fig, use_container_width=True)
 
@@ -231,8 +360,7 @@ st.plotly_chart(fig, use_container_width=True)
 st.markdown("---")
 st.caption("EDA interactivo para detección de fraude - UdeA")
 
-
-## ======================================== #
-##        Ejecución desde la Terminal       #
-##       streamlit run src/fraud_eda.py     #
-## ======================================== #
+# ======================================== #
+#        Ejecución desde la Terminal       #
+#       streamlit run src/fraud_eda.py     #
+# ======================================== #
